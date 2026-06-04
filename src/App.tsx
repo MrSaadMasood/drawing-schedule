@@ -16,8 +16,8 @@ function PhaseRoute() {
 
 function App() {
   return (
-    <BrowserRouter>
-      <Routes>
+    <BrowserRouter basename='/drawing-schedule'>
+      <Routes >
         <Route element={<AppLayout />}>
           <Route index element={<RoadmapPage />} />
           <Route path="phase/:phaseId" element={<PhaseRoute />} />
