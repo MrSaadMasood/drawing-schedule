@@ -12,7 +12,7 @@ export const phase1Gaps: GapCard[] = [
     fixes: [
       {
         label: 'Phase 1',
-        body: 'Weeks 5–12: 30–40 min anatomy per Session B every week — mannequin figures, hand studies, Loomis face construction. No features or detail yet — pure structure and proportion.',
+        body: 'Weeks 5–13: Session B prioritises anatomy volume — mannequin figures, hand studies, Loomis construction, then faces with features. Structure precedes detail; abstract emotion no longer consumes these blocks.',
       },
       {
         label: 'Phase 2',
@@ -89,7 +89,7 @@ export const phase1Gaps: GapCard[] = [
     fixes: [
       {
         label: 'Schedule',
-        body: 'Master copies are a recurring practice — first copy Week 4 Session B. Emotion pages run every Session B across all 14 working weeks. Phase 1 expanded to 15 weeks (Week 0 + 14) with split still life/Loomis and thumbnails/narrative weeks for followability.',
+        body: 'Master copies are a recurring practice — first copy Week 4 Session B (full session). Sparse expressive/emotion anchors on Weeks 1, 8, 11, and 14 seed Phase 4/5 translations. Phase 1 is 15 weeks (Week 0 + 14) with split still life/Loomis and thumbnails/narrative weeks for followability.',
       },
       {
         label: 'Wrong way',

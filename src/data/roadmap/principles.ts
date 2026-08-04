@@ -26,8 +26,8 @@ export const principles: Principle[] = [
     body: 'For every minute of drawing time, spend 30 seconds looking at your subject and 30 seconds looking at your drawing. Most beginners spend 90% of time looking at the paper and barely glance at the subject. The drawing is made in the looking, not in the mark-making.',
   },
   {
-    title: 'Your emotional practice is not separate from technique',
-    body: 'The "emotion pages" in every phase are not warm-ups or extras. They are the core of why you\'re doing this. Technique without something to say produces empty, impressive-but-hollow work. The emotion pages are where your voice lives. Never skip them.',
+    title: 'Your emotional practice is sequenced with craft',
+    body: 'Feeling in the work is the end goal — not a weekly abstract ritual from day one. Early phases prioritise craft densification with sparse expressive anchors (enough dated pages for later paint translations). Charcoal value mood labs, narrative/posture, watercolor surrender, and acrylic imagination/expansions are where emotion earns its keep. Technique without something to say is hollow; something to say without tools is frustration. Sequence both.',
   },
   {
     title: 'You are allowed to not finish things',

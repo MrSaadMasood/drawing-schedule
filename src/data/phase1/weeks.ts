@@ -71,20 +71,18 @@ export const phase1Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion page (mandatory 40 min) + free marks',
+        title: 'Expressive mark anchor (25 min) + contour volume',
         steps: [
           'Optional warm-up (5 min): Week 0 hand ritual',
-          'Open sketchbook to a double-page spread',
-          'Mandatory emotion block (40 min): think of something you felt strongly this week',
-          'Fill both pages with lines, pressure, marks — no subject, no symbols required',
-          'No rules inside the block: heavy marks, light marks, fast, slow — let it lead',
-          'Date the page and write one word in the corner describing the feeling',
-          'Remaining time (30 min): continue the spread OR start a second emotion page if the first filled early — still no subject, still no erasing for "mistakes"',
+          'Expressive mark anchor (25 min) — Phase 1 sparse emotion #1 of 4: double-page spread, pressure and speed only, no subject required',
+          'Date the page and write one word in the corner — this page feeds Phase 4/5 translations later',
+          'Remaining time (45 min): 4 more full-page hand contours — 10 min each, hard stop, change position each time',
+          'No shading. Stop each drawing when the outline is traced once',
         ],
       },
     ],
     stopRule:
-      'Session A: stop after 6 drawings at 75 min — do not do a 7th because one looked bad. Session B: do not end the 40-minute emotion block early because it "looks done" at 25 minutes.',
+      'Session A: stop after 6 drawings at 75 min — do not do a 7th because one looked bad. Session B: emotion anchor is 25 min then contours — do not extend the abstract block past 25 min.',
     note: 'Your drawings will look terrible this week. That is exactly correct. The goal is not a good drawing — it is training your eye to observe rather than assume. The brain draws symbols by default. Contour drawing breaks that habit.',
   },
   {
@@ -112,19 +110,19 @@ export const phase1Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion page (35 min) + 5 room-object contours',
+        title: '5 room-object contours + gesture top-up',
         steps: [
           'Optional warm-up (5 min): Week 0 hand ritual',
-          'Mandatory emotion block (35 min): double-page spread, no subject, date + one feeling word',
           'Pick 5 objects from your room: cup, shoe, phone, book, anything irregular',
-          'Draw each object contour-only on its own page — 7 min per object, hard stop even if unfinished',
+          'Draw each object contour-only on its own page — 10 min per object, hard stop even if unfinished',
           'Do not arrange objects for beauty — draw them where they sit',
-          'After all 5: flip back and note which contour looks most alive and why (2 sentences)',
+          'Remaining time (~20 min): 30-second gestures from pose source — capture lean and weight only',
+          'After all 5 objects: flip back and note which contour looks most alive and why (2 sentences)',
         ],
       },
     ],
     stopRule:
-      'Session A: stop gestures at 45 min even mid-pose — the timer is the discipline. Session B: emotion block runs full 35 min before objects; each object stops at 7 min.',
+      'Session A: stop gestures at 45 min even mid-pose — the timer is the discipline. Session B: each object stops at 10 min; no abstract emotion block this week.',
     milestone:
       'End of Week 2 check: can you fill a page of gestures in 30 minutes without freezing? If yes, proceed. If you still stop to think between poses, repeat Week 2 Session A before moving on.',
   },
@@ -153,19 +151,19 @@ export const phase1Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion page (35 min) + first simple still life contour',
+        title: 'Gesture warm-up + first simple still life contour',
         steps: [
-          `Optional warm-up (10 min): 30-second poses from ${POSE_SOURCE} — 10 gestures, no detail`,
-          'Mandatory emotion block (35 min): double-page spread, no subject, date + feeling word',
+          `Optional warm-up (15 min): 30-second poses from ${POSE_SOURCE} — 15 gestures, no detail`,
           'Arrange 2 objects under a single lamp — clear silhouette',
-          '30 min: one still life contour — proportion focus only, no shading',
+          '50 min: one still life contour — proportion focus only, no shading',
           'Use pencil-at-arm\'s-length measuring from Week 6 preview: compare heights before committing lines',
-          'Stop at 30 min regardless of state — photograph if useful',
+          'Stop at 50 min regardless of state — photograph if useful',
+          'Last 5 min: write one proportion error you see after photographing',
         ],
       },
     ],
     stopRule:
-      'Session A: each negative-space study stops at 18 min even if it feels unfinished. Session B: emotion block is fixed length; still life stops at 30 min.',
+      'Session A: each negative-space study stops at 18 min even if it feels unfinished. Session B: still life stops at 50 min — no abstract emotion block this week.',
     note: 'This week will feel strange. Good. Negative space rewires how your brain processes a scene — instead of seeing "chair" it starts seeing "shape." This is irreversible once learned.',
   },
   {
@@ -191,18 +189,19 @@ export const phase1Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion page (30 min) + master copy line study',
+        title: 'Master copy line study (full session)',
         steps: [
-          'Mandatory emotion block (30 min): double-page spread, no subject, date + feeling word',
+          'Optional warm-up (5 min): Week 0 hand ritual',
           'Find a Rembrandt or Da Vinci sketch online (pen/ink drawing, clear lines)',
-          'Primary skill block (40 min): copy in pencil line-for-line — do not shade',
+          '5 min looking only: write 3 observations before copying (why thick/thin, where lines stop)',
+          'Primary skill block (55 min): copy in pencil line-for-line — do not shade',
           'Ask while copying: why is this line thick here? Why does it stop there?',
-          'Stop at 40 min — write 3 observations on the page even if the copy is unfinished',
+          'Stop at 55 min — write 3 observations on the page even if the copy is unfinished',
         ],
       },
     ],
     stopRule:
-      'Session A: stop each line-personality version at 12 min. Session B: master copy stops at 40 min — an unfinished copy teaches as much as a finished one.',
+      'Session A: stop each line-personality version at 12 min. Session B: master copy stops at 55 min — an unfinished copy teaches as much as a finished one. No abstract emotion block this week (line personalities already train expressive marks).',
     milestone:
       'End of Month 1 check: flip through your sketchbook. You should have 20+ pages filled. If you have fewer than 15, you have been skipping sessions or overworking single drawings — adjust before Week 5.',
   },
@@ -229,18 +228,18 @@ export const phase1Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion page (35 min) + figure as basic shapes',
+        title: 'Gesture warm-up + figure as basic shapes',
         steps: [
           `Optional warm-up (15 min): 1-minute poses from ${POSE_SOURCE} — 10 gestures`,
-          'Mandatory emotion block (35 min): double-page spread, no subject, date + feeling word',
-          '25 min: draw a standing figure as basic shapes only — oval head, rectangle torso, cylinders for limbs. No face, no detail.',
+          '50 min: draw standing figures as basic shapes only — oval head, rectangle torso, cylinders for limbs. No face, no detail.',
           'Reference: search "Andrew Loomis figure drawing" for proportion ratios (head = 1 unit, body ≈ 7–7.5 heads)',
-          'Deliverable: 3 mannequin figures in different poses (standing, sitting, reaching) — ~8 min each, stop on time',
+          'Deliverable: 5 mannequin figures in different poses (standing, sitting, reaching, leaning, twisting) — ~10 min each, stop on time',
+          'Last 5 min: circle the figure with best proportions; note one ratio error on another',
         ],
       },
     ],
     stopRule:
-      'Session A: each object stops at 20 min. Session B: mannequin poses stop at 8 min each — learn ratios, not polish.',
+      'Session A: each object stops at 20 min. Session B: mannequin poses stop at 10 min each — learn ratios, not polish. No abstract emotion block this week.',
     note: 'Anatomy begins here as structure, not muscles. The arms reach mid-thigh. The head is one unit. Learn these ratios this week — they stay with you.',
   },
   {
@@ -268,11 +267,11 @@ export const phase1Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion page (30 min) + hand structure studies',
+        title: 'Hand structure studies (full session)',
         steps: [
-          'Mandatory emotion block (30 min): double-page spread, no subject, date + feeling word',
+          'Optional warm-up (5 min): Week 0 hand ritual',
           'Your hand is always available — use it for anatomy',
-          'Primary deliverable: 8 hand drawings in different positions — 5 min each, structure only',
+          'Primary deliverable: 12 hand drawings in different positions — 5 min each, structure only',
           'Draw underlying box/cylinder structure first, then skin outline on top',
           'No fingernails, no skin texture — knuckle placement and finger length ratios only',
           'Last 5 min: compare to Week 1 contour hands — write one improvement and one remaining weakness',
@@ -280,7 +279,7 @@ export const phase1Weeks: WeekDetail[] = [
       },
     ],
     stopRule:
-      'Session A: stop at 75 min — never overwork to "fix" proportions in the same session. Session B: each hand stops at 5 min.',
+      'Session A: stop at 75 min — never overwork to "fix" proportions in the same session. Session B: each hand stops at 5 min. No abstract emotion block this week.',
   },
   {
     id: 'week-7',
@@ -306,18 +305,18 @@ export const phase1Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion page (35 min) + memory scene with perspective',
+        title: 'Gesture warm-up + memory scene with perspective',
         steps: [
-          `Optional warm-up (10 min): 2-minute poses from ${POSE_SOURCE} — 5 gestures`,
-          'Mandatory emotion block (35 min): double-page spread, no subject, date + feeling word',
-          '30 min: draw a place you know from memory — use one-point perspective ideas where relevant',
+          `Optional warm-up (15 min): 2-minute poses from ${POSE_SOURCE} — 7 gestures`,
+          '50 min: draw a place you know from memory — use one-point perspective ideas where relevant',
           'No reference photo. Accuracy is not the goal — spatial feeling is',
-          'If memory drawing stalls, return to emotion marks for the remaining minutes — do not fetch reference',
+          'If memory drawing stalls, redraw the room from a different eye level for the remaining minutes — do not fetch reference',
+          'Last 5 min: mark the vanishing point and horizon you implied, even if rough',
         ],
       },
     ],
     stopRule:
-      'Session A: stop after 8 boxes and one room attempt — perspective can become obsessive; learn the principle and move on. Session B: emotion block is non-negotiable length.',
+      'Session A: stop after 8 boxes and one room attempt — perspective can become obsessive; learn the principle and move on. Session B: memory scene gets the full skill block — no separate abstract emotion page this week.',
     note: 'You revisit and expand perspective in Phase 3. This week establishes the habit of a vanishing point and horizon, not architectural perfection.',
   },
   {
@@ -345,19 +344,19 @@ export const phase1Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion page — mandatory 45 min',
+        title: 'Second still life attempt + expressive mark anchor (25 min)',
         steps: [
-          'No figure poses this session — still life week balances with pure feeling practice',
-          'Open a double-page spread. Set a timer for 45 minutes — do not stop early',
-          'Mandatory emotion block (45 min): no subject, no symbols required, no erasing for "mistakes"',
-          'Vary pressure, speed, and mark direction as the feeling shifts',
-          'Date the page and write one word describing the feeling',
-          'Remaining time (30 min): extend the same spread OR add a second spread if the first is full — still non-representational',
+          'Optional warm-up (5 min): Week 0 hand ritual',
+          'New arrangement OR same setup from a different angle — 3 thumbnails (2 min each)',
+          '40 min: second still life contour/light hatch — measuring and negative-space awareness',
+          'Expressive mark anchor (25 min) — Phase 1 sparse emotion #2 of 4: double-page spread, no subject required',
+          'Vary pressure, speed, and mark direction; date the page and write one feeling word',
+          'This page is a translation seed for Phase 4 watercolor / Phase 5 acrylic — keep it',
         ],
       },
     ],
     stopRule:
-      'Session A: stop at 75 min even if unfinished — photograph anyway. Session B: the 45-minute emotion timer is the deliverable; do not quit at 30 because it looks "done."',
+      'Session A: stop at 75 min even if unfinished — photograph anyway. Session B: still life block first; emotion anchor is fixed 25 min — do not skip the still life for a longer abstract page.',
     milestone:
       'End of Month 2 check: you should have gesture pages, hand studies, perspective boxes, and at least one measured still life in the sketchbook. If gestures or perspective are missing entirely, address that in Week 14 buffer time.',
   },
@@ -386,17 +385,18 @@ export const phase1Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion page (40 min) + optional head-angle review',
+        title: 'Loomis head-angle volume + weak-angle review',
         steps: [
-          'Mandatory emotion block (40 min): double-page spread, no subject, date + feeling word',
-          'If emotion pages finish early, spend remaining 35 min redrawing your weakest Loomis angle from Session A once — structure only, 15 min max',
+          'Optional warm-up (5 min): Week 0 hand ritual',
+          'Primary deliverable: 5 more Loomis constructions at angles you avoided in Session A — 10 min each, structure only, no features',
+          'Spend remaining time redrawing your weakest Loomis angle from Session A once — structure only, 15 min max',
           'Do not add facial features this week in Session B — stay on construction',
           'Write one sentence: which angle confused you most?',
         ],
       },
     ],
     stopRule:
-      'Session A: stop each construction at 10 min. Session B: emotion block runs full 40 min before any optional review drawing.',
+      'Session A: stop each construction at 10 min. Session B: construction volume first — no abstract emotion block this week.',
   },
   {
     id: 'week-10',
@@ -422,18 +422,17 @@ export const phase1Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion page (35 min) + structured figure gestures',
+        title: 'Structured figure gestures (full session)',
         steps: [
           `Optional warm-up (5 min): 30-second poses from ${POSE_SOURCE} — 5 gestures`,
-          'Mandatory emotion block (35 min): double-page spread, no subject, date + feeling word',
           `Set ${POSE_SOURCE} to 2 minutes, full figures`,
-          '30 min: for each pose — gesture line (spine curve), basic shape skeleton, minimal outline. Target 12–15 poses',
-          'Last 5 min: circle best 3 gestures; one sentence each on what worked',
+          '60 min: for each pose — gesture line (spine curve), basic shape skeleton, minimal outline. Target 25–30 poses',
+          'Last 10 min: circle best 5 gestures; one sentence each on what worked',
         ],
       },
     ],
     stopRule:
-      'Session A: sampler done when all 8 sections show a value range; each texture box stops at 15 min. Session B: stop figures when time ends, not when you feel satisfied.',
+      'Session A: sampler done when all 8 sections show a value range; each texture box stops at 15 min. Session B: stop figures when time ends, not when you feel satisfied. No abstract emotion block this week.',
   },
   {
     id: 'week-11',
@@ -459,18 +458,19 @@ export const phase1Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion page — mandatory 45 min',
+        title: 'Thumbnail speed round + expressive mark anchor (25 min)',
         steps: [
-          'No skill drill before the timer — start on the spread immediately',
-          'Mandatory emotion block (45 min): non-representational marks only',
-          'Vary pressure and speed; let the feeling change the mark direction',
-          'Date and label with one word',
-          'Remaining time (30 min): continue the spread or add a second — still no subject',
+          'Optional warm-up (5 min): Week 0 hand ritual',
+          '30 min: second thumbnail marathon — different subject from Session A, max 12 thumbnails, hard stop at 2.5 min each',
+          'Circle best 2; write one sentence on why the strongest composition works',
+          'Expressive mark anchor (25 min) — Phase 1 sparse emotion #3 of 4: non-representational marks only',
+          'Vary pressure and speed; date and label with one word',
+          'Remaining time: extend the anchor spread OR redraw weakest thumbnail at postcard size',
         ],
       },
     ],
     stopRule:
-      'Session A: never exceed 12 thumbnails in the 30-minute block — speed is the skill. Developed drawing stops at 40 min. Session B: 45-minute emotion timer is mandatory.',
+      'Session A: never exceed 12 thumbnails in the 30-minute block — speed is the skill. Developed drawing stops at 40 min. Session B: thumbnail round first; emotion anchor is 25 min — not a full-session abstract page.',
     note: 'From this week forward, every Session A in later phases expects at least 3 thumbnails before a large drawing. This week trains the habit under time pressure.',
   },
   {
@@ -498,16 +498,17 @@ export const phase1Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion page (40 min) + narrative reflection',
+        title: 'Narrative panel revision + clarity pass',
         steps: [
-          'Mandatory emotion block (40 min): double-page spread, no subject, date + feeling word',
-          '35 min: redraw your weakest panel once at half size — focus on clarity, not detail',
-          'Write 5 sentences: what changed between panels? What would a viewer understand without text?',
+          'Optional warm-up (5 min): Week 0 hand ritual',
+          '50 min: redraw your weakest panel once at full or half size — focus on clarity, not detail',
+          '20 min: write 5 sentences: what changed between panels? What would a viewer understand without text?',
+          'Optional last minutes: one tiny 3-panel thumbnail of an alternate framing — composition only',
         ],
       },
     ],
     stopRule:
-      'Session A: each panel stops at 22 min even if unfinished. Session B: emotion block completes before panel revision.',
+      'Session A: each panel stops at 22 min even if unfinished. Session B: panel revision is the full skill block — no abstract emotion page this week (narrative already trains expression).',
   },
   {
     id: 'week-13',
@@ -533,17 +534,18 @@ export const phase1Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion page (30 min) + hand structure depth',
+        title: 'Hand structure depth (full session)',
         steps: [
-          'Mandatory emotion block (30 min): double-page spread, no subject, date + feeling word',
-          'Primary deliverable: 8 hand drawings — 5 min each — box palm first, cylinders for fingers, knuckles on the back plane',
+          'Optional warm-up (5 min): Week 0 hand ritual',
+          'Primary deliverable: 12 hand drawings — 5 min each — box palm first, cylinders for fingers, knuckles on the back plane',
           'No fingernail detail — structure and foreshortening only',
+          'Optional: on 2–3 hands, vary pressure/tempo intentionally (expressive hands) — still structure-first',
           'Last 5 min: compare to Week 6 hands — write three specific improvements you can see',
         ],
       },
     ],
     stopRule:
-      'Session A: stop each face at 15 min — four faces total, not five. Session B: each hand stops at 5 min.',
+      'Session A: stop each face at 15 min — four faces total, not five. Session B: each hand stops at 5 min. No separate abstract emotion block — expressive pressure on hands counts if you use it.',
   },
   {
     id: 'week-14',
@@ -570,19 +572,19 @@ export const phase1Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Review sprint + emotion (mandatory 30 min)',
+        title: 'Review sprint + Phase 1 close page',
         steps: [
           'Flip through both sketchbooks from page 1 — 15 min',
           'On a fresh page, list 3 skills that improved and 2 that remain weak (specific: "hands flat in foreshortening," not "hands bad")',
-          'Category audit — count pages in each: gestures, contour/negative space, perspective boxes, still lifes, Loomis constructions, faces with features, hand studies, texture/mark sampler, thumbnails, narrative panels, emotion pages, master copies',
-          'Buffer sprint (20 min): rapid pages only for categories with fewer than 5 pages — use exercises from the weeks listed in your audit',
-          'Mandatory emotion block (30 min): close Phase 1 on a double spread — date it "Phase 1 complete"',
+          'Category audit — count pages in each: gestures, contour/negative space, perspective boxes, still lifes, Loomis constructions, faces with features, hand studies, texture/mark sampler, thumbnails, narrative panels, expressive/emotion anchors (Weeks 1, 8, 11 + this close), master copies',
+          'Buffer sprint (25 min): rapid pages only for categories with fewer than 5 pages — use exercises from the weeks listed in your audit',
+          'Phase 1 close (20 min) — sparse emotion #4 of 4: double spread dated "Phase 1 complete" — abstract marks OR one expressive detail from your best still life; keep it for Phase 4/5 translations',
         ],
       },
     ],
     stopRule:
-      'Session A: stop at 75 min — do not extend into a second session the same day. Session B: complete the category audit before buffer sprints; emotion block is the final 30 minutes.',
+      'Session A: stop at 75 min — do not extend into a second session the same day. Session B: complete the category audit before buffer sprints; close page is the final 20 minutes.',
     milestone:
-      'Phase 1 complete when: (1) both sketchbooks are at least 80% filled, and (2) each category below has 5+ pages — gestures, contour and negative space, perspective, still lifes, Loomis heads, faces with features, hand studies, texture/mark-making, thumbnails, narrative panels, emotion pages, master copies. Use Week 14 Session B buffer time for any category under 5 pages before starting Phase 2. Your two weak areas from the review become the focus of Phase 2 Weeks 1–2.',
+      'Phase 1 complete when: (1) both sketchbooks are at least 80% filled, and (2) each skill category below has 5+ pages — gestures, contour and negative space, perspective, still lifes, Loomis heads, faces with features, hand studies, texture/mark-making, thumbnails, narrative panels, master copies — plus at least 4 dated expressive/emotion anchor pages (Weeks 1, 8, 11, 14). Use Week 14 Session B buffer time for any skill category under 5 pages before starting Phase 2. Your two weak areas from the review become the focus of Phase 2 Weeks 1–2.',
   },
 ]

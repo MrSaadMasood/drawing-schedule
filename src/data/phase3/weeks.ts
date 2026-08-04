@@ -9,7 +9,7 @@ export const phase3Weeks: WeekDetail[] = [
     id: 'week-1',
     weekNumber: 1,
     title: 'Thumbnail drill — mandatory from day one',
-    focus: 'Skill: max 12 thumbnails in 30 min · one developed drawing · emotion with compositional intent',
+    focus: 'Skill: max 12 thumbnails in 30 min · one developed drawing · compositional mood lab',
     badge: month7,
     sessions: [
       {
@@ -28,13 +28,13 @@ export const phase3Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion page — 45 min compositional intent',
+        title: 'Compositional mood lab (30 min) + eye-path practice',
         steps: [
           'Before drawing: write one sentence — where should the eye enter and where should it rest?',
-          'Mandatory block (45 min): charcoal emotion page — mood through marks and value only, no subject required',
+          'Compositional mood lab (30 min): charcoal — mood through marks and value only, no subject required',
           'Use at least 5 distinct values. Notice marks that feel contained vs marks that lead the eye off the page',
           'Date the page and write one word describing the feeling',
-          'Final 25 min: arrow the actual eye path on the page. Did it match your sentence? Adjust arrows if not',
+          'Final 40 min: 6 tiny eye-path thumbnails (abstract or simple shapes) — arrow entry and rest on each; pick strongest path',
           'No developed drawing this session — feeling and eye path only',
         ],
       },
@@ -66,13 +66,13 @@ export const phase3Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion page + eye-path check',
+        title: 'Compositional mood lab (30 min) + eye-path check',
         steps: [
           '3-minute value scale warm-up',
           'Write one sentence: where should the eye enter on today\'s page?',
-          '45 min: charcoal emotion page — compositional intent, mood through value and mark',
-          'Final 25 min: arrow actual eye path. Write one sentence — did intention match result?',
-          'Optional 5 min: 3 tiny thumbnails of where you might place a focal point next week — not required if time is short',
+          '30 min: charcoal mood lab — compositional intent, mood through value and mark',
+          'Final 40 min: redraw Session A developed drawing\'s value masses as a postage-stamp eye-path map + 3 alternate focal placements as tiny thumbnails',
+          'Write one sentence — did intention match result on the mood lab?',
         ],
       },
     ],
@@ -103,12 +103,14 @@ export const phase3Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion close — compositional intent',
+        title: 'Second one-point scene OR memory place (skill densification)',
         steps: [
           '3-minute value scale warm-up',
-          'One sentence on the page: where should the eye enter and rest?',
-          'Final 45 min: charcoal emotion page — mood and value masses, no subject required',
-          'Arrow actual eye path when the block ends. Date the page',
+          'One sentence on the page: where should the eye enter and rest in this scene?',
+          'Up to 8 thumbnails (20 min max) — different VP placement than Session A',
+          '50 min: develop a second one-point scene OR draw a familiar place from memory with one-point ideas',
+          'Apply Phase 2 value — no separate abstract mood lab this week',
+          'Arrow actual eye path when done. Date the page',
         ],
       },
     ],
@@ -138,12 +140,14 @@ export const phase3Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion close — perspective as tool, not obsession',
+        title: 'Second two-point pass — perspective as tool, not obsession',
         steps: [
           '3-minute value scale warm-up',
           'Write one sentence: one compositional device you stole from today\'s two-point study (e.g. corner tension, empty floor)',
-          '45 min: charcoal emotion page — compositional intent, where does the eye enter?',
-          'Final 20 min: arrow eye path. After this week, put the ruler away for routine drawings unless a scene needs it',
+          'Up to 8 thumbnails (20 min) of a different corner or street',
+          '45 min: develop second two-point scene OR redraw Session A with stronger eye path',
+          'Final 10 min: arrow eye path. After this week, put the ruler away for routine drawings unless a scene needs it',
+          'No abstract mood lab this week — perspective volume instead',
         ],
       },
     ],
@@ -182,12 +186,13 @@ export const phase3Weeks: WeekDetail[] = [
           'Same rules: horizon varies every box, ~30 min for 10 boxes',
           'Circle best 2 across both sessions (20 total this week). Pick the single strongest composition overall',
           'Write one sentence: which horizon rule will you use in Week 6 develop?',
-          'Final 25–30 min: charcoal emotion page — compositional intent only, no landscape detail required',
+          'Final 25–30 min: compositional mood lab — landscape mood through mark and value, no landscape detail required',
+          'Date and one feeling word',
         ],
       },
     ],
     stopRule:
-      'When to stop: 10 thumbnails per session, not 20 in 30 minutes. Twenty thumbnails exist across the week, not in one sitting. Emotion page: 25 min minimum.',
+      'When to stop: 10 thumbnails per session, not 20 in 30 minutes. Twenty thumbnails exist across the week, not in one sitting. Mood lab: 25 min minimum this week.',
   },
   {
     id: 'week-6',
@@ -211,12 +216,13 @@ export const phase3Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion close — landscape mood without scenery',
+        title: 'Compositional mood lab — landscape mood without scenery',
         steps: [
           '3-minute value scale warm-up',
           'One sentence: what feeling did Week 5–6 landscapes aim for?',
-          '45 min: charcoal emotion page — that mood through mark and value, no literal landscape',
-          'Final 20 min: arrow eye path. Did the eye stay contained or wander off-page?',
+          '30 min: charcoal mood lab — that mood through mark and value, no literal landscape',
+          'Final 40 min: 3 postage-stamp landscape value maps from Week 5 winners — masses and eye path only',
+          'Arrow eye path on the mood lab. Did the eye stay contained or wander off-page?',
         ],
       },
     ],
@@ -246,13 +252,13 @@ export const phase3Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion page — compositional awareness',
+        title: 'Compositional mood lab (30 min) + stolen-device thumbnails',
         steps: [
           '3-minute value scale warm-up',
           'Before starting: decide where the eye should enter and rest — one sentence on the page',
-          '45 min: charcoal emotion page — mood through marks and value',
-          'Final 25 min: arrow the actual eye path. Did it match your intention?',
-          'Notice: contained marks vs marks that lead the eye off the page — date the page',
+          '30 min: charcoal mood lab — mood through marks and value',
+          'Final 40 min: up to 12 tiny thumbnails applying one stolen master device to your own subject',
+          'Arrow the actual eye path on the mood lab. Date the page',
         ],
       },
     ],
@@ -282,20 +288,20 @@ export const phase3Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: '3-panel sequence + emotion close',
+        title: '3-panel sequence + clarity rewrite',
         steps: [
           '3-minute value scale warm-up',
           'Tell the same moment as a sequence: beginning, middle, end across 3 panels',
           '3 layout thumbnails first (10 min) — choose horizontal, vertical, or grid — max 12 thumbnails in 30 min if you explore more',
           '15 min per panel — hard stop each panel',
           'The sequence should read left-to-right without text',
+          'Remaining time: rewrite weakest panel once for clarity — narrative already carries expression; no separate abstract mood lab',
           '24-hour later fresh-eyes review + write one sentence: does the story read without explanation?',
-          'Final 15 min: charcoal emotion page — compositional intent, where does the eye enter and rest?',
         ],
       },
     ],
     stopRule:
-      'When to stop each framing study: 15 min. When to stop panels: 15 min each. Emotion page: 15 min minimum after panels — do not skip.',
+      'When to stop each framing study: 15 min. When to stop panels: 15 min each. Use leftover time for panel rewrite — no mandatory abstract emotion tack-on.',
   },
   {
     id: 'week-9',
@@ -320,14 +326,14 @@ export const phase3Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Narrative critique + emotion close',
+        title: 'Narrative critique + redraw (full skill block)',
         steps: [
           '3-minute value scale warm-up',
           'Spread narrative work from Weeks 8–9 (and any earlier panels). Rank pages strongest to weakest',
           'Write one specific thing the weakest page needs (focal point, eye path, fewer competing elements)',
-          '20 min: redraw the weakest panel or framing only, applying the fix',
+          '45 min: redraw the weakest panel or framing, applying the fix',
           '24-hour later fresh-eyes review on the redraw + write one sentence: did the fix work?',
-          'Final 25–30 min: charcoal emotion page — compositional intent. Notice contained vs outward-leading marks',
+          'No separate abstract mood lab — storytelling is the expression work this week',
         ],
       },
     ],
@@ -359,13 +365,13 @@ export const phase3Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion page + posture in environment thumbnails',
+        title: 'Posture in environment (full skill block)',
         steps: [
           '3-minute value scale warm-up',
-          '30 min: charcoal emotion page — compositional intent, where does the eye rest?',
           'Up to 12 thumbnails in 30 min: figure posture placed in simple environment (doorway, chair, window, street)',
           'Remaining time: develop the strongest thumbnail — figure small, environment carries mood',
           'Posture and place together tell the story — not the face',
+          'No separate abstract mood lab — posture is the emotion skill this week',
         ],
       },
     ],
@@ -395,24 +401,26 @@ export const phase3Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion close — interaction mood',
+        title: 'Interaction versions volume (skill densification)',
         steps: [
           '3-minute value scale warm-up',
           'One sentence: which relationship from Session A had the clearest read?',
-          '45 min: charcoal emotion page — two figures optional, mood and eye path primary',
-          'Final 20 min: arrow eye path. If the relationship required a caption in Session A, note what posture to push next time',
+          'Draw 4 more two-figure versions of a weaker relationship — 12 min each — push distance, lean, and open/closed posture',
+          'Remaining time: develop the clearest pair with simple value and arrow the eye path',
+          'If the relationship required a caption in Session A, note what posture to push next time',
+          'No separate abstract mood lab — interaction body language is the expression work',
         ],
       },
     ],
     stopRule:
-      'When to stop interaction studies: 15 min each for the 3 versions. Emotion page: 45 min block — do not shorten.',
-    note: 'This skill connects directly to pouring emotion into images. Phase 5 acrylic emotion paintings will need figures that communicate without explanation.',
+      'When to stop interaction studies: 15 min each for Session A versions; 12 min each for Session B volume. No mandatory abstract emotion block.',
+    note: 'This skill connects directly to pouring emotion into images. Phase 5 acrylic work will need figures that communicate without explanation.',
   },
   {
     id: 'week-12',
     weekNumber: 12,
     title: 'Perspective buffer week — light one-point refresh',
-    focus: 'Buffer: one-point scene refresh if perspective felt weak · otherwise confidence check · emotion close',
+    focus: 'Buffer: one-point scene refresh if perspective felt weak · otherwise confidence check · second spatial pass',
     badge: month9,
     sessions: [
       {
@@ -429,12 +437,13 @@ export const phase3Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion close — buffer week, no new skills',
+        title: 'Second spatial pass — buffer week, no new skills',
         steps: [
           '3-minute value scale warm-up',
           'Write one sentence: did you need the full buffer path or the confidence-check path today?',
-          '45 min: charcoal emotion page — compositional intent only',
-          'Final 20 min: arrow eye path. Date the page',
+          'Develop a second memory room OR redraw Session A from a different eye level — 60 min',
+          'Final 10 min: arrow eye path. Date the page',
+          'No abstract mood lab — spatial confidence is the job',
         ],
       },
     ],
@@ -446,7 +455,7 @@ export const phase3Weeks: WeekDetail[] = [
     id: 'week-13',
     weekNumber: 13,
     title: 'Phase 3 showpiece — strongest composition',
-    focus: 'Skill: best compositional drawing of the phase · Session A only · Session B emotion 45 min',
+    focus: 'Skill: best compositional drawing of the phase · Session A only · Session B short mood echo',
     badge: month9,
     sessions: [
       {
@@ -464,23 +473,22 @@ export const phase3Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 45 min',
-        title: 'Emotion only — close the showpiece week',
+        title: 'Showpiece mood echo (25 min) + critique note',
         steps: [
-          'No thumbnails, no narrative, no copy work',
-          'One sentence: what feeling should this emotion page echo from the showpiece (or contrast it)?',
-          '45 min: charcoal emotion page — compositional intent, mood through value and mark',
-          'Arrow eye path in final 5 min if time remains. Date the page',
+          'One sentence: what feeling should this page echo from the showpiece (or contrast it)?',
+          '25 min: charcoal mood lab — compositional intent, mood through value and mark',
+          'Final 20 min: write 5 sentences of showpiece critique (focal point, eye path, value masses, what to steal next) — date both pages',
         ],
       },
     ],
     stopRule:
-      'When to stop Session A: 75 min default, 90 min maximum. Thumbnails still cap at 12 in 30 min. Session B is 45 min emotion only — do not add skill work.',
+      'When to stop Session A: 75 min default, 90 min maximum. Thumbnails still cap at 12 in 30 min. Session B: 25 min mood echo then critique — do not extend into a second showpiece.',
   },
   {
     id: 'week-14',
     weekNumber: 14,
     title: 'Master composition copy — full Session A',
-    focus: 'Skill: Hopper, Sargent, or Wyeth shape copy · written analysis · Session B emotion only',
+    focus: 'Skill: Hopper, Sargent, or Wyeth shape copy · written analysis · apply stolen device Session B',
     badge: month9,
     sessions: [
       {
@@ -498,11 +506,12 @@ export const phase3Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Emotion close — stolen device optional',
+        title: 'Stolen-device composition (skill) + optional short mood lab',
         steps: [
           '3-minute value scale warm-up',
-          '45 min: charcoal emotion page — apply one stolen eye-path device OR ignore it entirely — feeling first',
-          'Final 25 min: arrow eye path. Write one sentence: which device did you use or deliberately reject?',
+          '50 min: develop one small composition applying one stolen eye-path device from Session A to your own subject',
+          'Final 20 min optional: compositional mood lab if energy remains — feeling first, device optional',
+          'Write one sentence: which device did you use or deliberately reject?',
         ],
       },
     ],
@@ -537,7 +546,7 @@ export const phase3Weeks: WeekDetail[] = [
           'Write 1 weak area to carry into Phase 4 — be specific (e.g. "every focal point still centered")',
           '45 min sprint on that weakness only',
           'Write 2 habits for Phase 4: 3 thumbnails before every watercolor, value sketch before every wash painting',
-          'Final 15 min: charcoal emotion page — close with feeling, not only analysis',
+          'No separate mood lab — review and weakness sprint fill Session B',
         ],
       },
     ],
@@ -548,7 +557,7 @@ export const phase3Weeks: WeekDetail[] = [
     id: 'week-16',
     weekNumber: 16,
     title: 'Buffer + Phase 3 complete review',
-    focus: 'Explicit buffer · weak area sprint · phase gate · emotion close',
+    focus: 'Explicit buffer · weak area sprint · phase gate · short close page',
     badge: month9,
     sessions: [
       {
@@ -566,20 +575,20 @@ export const phase3Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Phase 3 complete review + emotion close',
+        title: 'Phase 3 complete review + close page',
         steps: [
           '3-minute value scale warm-up',
-          'Spread entire Phase 3 sketchbook. Check gate: thumbnails automatic before developed drawings; one-point and two-point attempted; at least 3 narrative pages; one master copy with written analysis; emotion every week including buffer weeks',
+          'Spread entire Phase 3 sketchbook. Check gate: thumbnails automatic before developed drawings; one-point and two-point attempted; at least 3 narrative pages; one master copy with written analysis; compositional mood labs on Weeks 1–2, 5–7, 13 (plus optional Week 14)',
           'Write what is still weakest in one sentence',
-          '30 min sprint on that single weakness only',
+          '40 min sprint on that single weakness only',
           'Write: ready for Phase 4 watercolor? If thumbnails still feel optional, repeat Week 1–2 buffer before buying paint',
-          'Final 30 min: charcoal emotion page — compositional intent. Close Phase 3 with marks, not only lists',
+          'Final 20 min: charcoal close page — compositional intent. Close Phase 3 with marks, not only lists. Date it',
         ],
       },
     ],
     stopRule:
       'Week 16 is buffer and review — not new curriculum. Stop sprints at time even if imperfect. Phase 3 ends when the gate checklist is honest, not when every drawing is good.',
     milestone:
-      'Phase 3 complete when: thumbnails before every developed drawing feel automatic; space reads in one-point and two-point (even if imperfect); strong composition often feels right before you can explain why; at least one showpiece and one master copy with notes exist. If not, use buffer paths in Weeks 12 and 16 before Phase 4.',
+      'Phase 3 complete when: thumbnails before every developed drawing feel automatic; space reads in one-point and two-point (even if imperfect); strong composition often feels right before you can explain why; at least one showpiece and one master copy with notes exist; narrative/posture pages communicate without captions. If not, use buffer paths in Weeks 12 and 16 before Phase 4.',
   },
 ]

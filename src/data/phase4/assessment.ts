@@ -10,38 +10,39 @@ export type PhaseAssessment = {
 }
 
 export const phase4Assessment: PhaseAssessment = {
-  overallScore: 9.2,
-  followabilityScore: 8.0,
-  verdict: 'Watercolor planning phase with dry-time in the calendar and explicit buffer weeks.',
+  overallScore: 9.3,
+  followabilityScore: 9.0,
+  verdict:
+    'Watercolor planning phase with dry-time in the calendar, Phase 1 translations preserved, and wet-brush mood on designated weeks.',
   reason:
-    'Expanded to 20 weeks: Week 3 wash buffer gate; mixing grid split Weeks 4–5; 3 skies per week (Weeks 6–7); emotion translation one page per week (Weeks 12–13); light study reduced to two controllable indoor setups (Weeks 14–15); careful/loose split Weeks 16–17; buffers Weeks 19–20. Color temp notes from Week 4. Session B emotion mandatory from Week 3.',
+    'Expanded to 20 weeks: Week 3 wash buffer gate; mixing grid split Weeks 4–5; 3 skies per week (Weeks 6–7); emotion translation one page per week (Weeks 12–13); light study reduced to two controllable indoor setups (Weeks 14–15); careful/loose split Weeks 16–17; buffers Weeks 19–20. Color temp notes from Week 4. Session B wet-brush mood is 25 min on designated weeks — alternate weeks densify skies, landscapes, still life, and light study.',
   ratingItems: [
     {
-      score: '8.0/10',
-      title: 'Followability — paint physics respected',
-      body: 'Multi-layer work documented to span sessions with dry gaps. Buckling paper → repeat wash week. Four-scene outdoor study replaced with two indoor/lamp setups — slight temperature nuance trade for completion rate. Expanded: +4 weeks.',
+      score: '9.0/10',
+      title: 'Followability — paint physics + clearer Session B',
+      body: 'Multi-layer work documented to span sessions with dry gaps. Removing weekly 45-min abstract emotion reduces burnout during wash and landscape weeks. Two indoor light setups preserved.',
     },
     {
       score: '9.5/10',
       title: 'Weeks 1–3 washes + gate',
-      body: 'Week 3 explicit buffer before mixing — prevents muddy landscape rush. Emotion starts Week 3 Session B.',
+      body: 'Week 3 explicit buffer before mixing — prevents muddy landscape rush. First wet-brush mood begins Week 3 at 25 min.',
+    },
+    {
+      score: '9.2/10',
+      title: 'Still life twice + emotion translation arc',
+      body: 'Weeks 10–11 still life intent preserved. Weeks 12–13 Phase 1 → watercolor translations kept in full — the high-ROI emotion thread.',
     },
     {
       score: '9.0/10',
-      title: 'Still life twice + emotion arc',
-      body: 'Weeks 10–11 unchanged in pedagogical intent. Weeks 12–13 one Phase 1 page each — less cram, same cross-medium thread.',
+      title: 'Light study (controllable)',
+      body: 'Two paintings (morning + golden hour). Warm/cool contrast still taught. Session B comparison densification on Week 15.',
     },
     {
-      score: '8.5/10',
-      title: 'Light study (reduced)',
-      body: 'Two paintings instead of four — pedagogical score trade. Followability gain for people without stable outdoor access. Warm/cool contrast still taught.',
-    },
-    {
-      score: '9.0/10',
+      score: '9.2/10',
       title: 'Alignment with roadmap',
-      body: '20-week overview matches guide. Buffers 19–20 named in schedule. Phase 5 inherits planning habit.',
+      body: '20-week overview matches guide. Buffers 19–20 named. Phase 5 inherits planning habit and translation corpus.',
     },
   ],
   infoBox:
-    'Pedagogical 9.2 / Followability 8.0. Watercolor remains the hardest phase to follow — supplies and dry time — but 20 weeks reduces rush. Use Weeks 19–20 if mud persists.',
+    'Pedagogical 9.3 / Followability 9.0. Watercolor remains supply-sensitive — use Weeks 19–20 if mud persists. Translations Weeks 12–13 are non-negotiable for the cross-medium arc.',
 }

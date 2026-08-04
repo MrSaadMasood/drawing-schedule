@@ -34,20 +34,20 @@ export const phase5Weeks: WeekDetail[] = [
           'Load knife, push paint across canvas board — ridges and texture visible',
           'Deliverable: one board fully covered in impasto, varying stroke direction — 45 min hard block',
           'Compare thin board (Session A) and thick board side by side when dry',
-          'Mandatory emotion block (30–45 min minimum): free emotion page on a third board — impasto only, no subject',
+          'Wet-brush/acrylic mood block (20–30 min): free emotion page on a third board — impasto only, no subject',
           'Date all boards. Label thin vs thick',
         ],
       },
     ],
     stopRule:
-      'Week 1 is about extremes — do not try to find the middle yet. Stop when each board is covered, not when it looks like art. Session B emotion block runs full 30–45 min even if impasto board finished early.',
+      'Week 1 is about extremes — do not try to find the middle yet. Stop when each board is covered, not when it looks like art. Session B acrylic mood block runs 20–30 min even if impasto board finished early.',
     note: 'Buy canvas boards before Week 1 — gesso-primed, 20×25cm to start. Phase 5 supplies: 6–8 acrylic colours (primaries + white + black minimum), palette knife, plastic palette.',
   },
   {
     id: 'week-2',
     weekNumber: 2,
     title: 'Thin vs thick — both extremes mastered',
-    focus: 'Skill: combine wash and impasto on one board · dry darker rule · emotion with texture',
+    focus: 'Skill: combine wash and impasto on one board · dry darker rule · mood with texture',
     badge: month14,
     sessions: [
       {
@@ -63,9 +63,9 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: 'Free acrylic emotion painting',
+        title: 'Acrylic mood painting (20–30 min)',
         steps: [
-          'Mandatory emotion block (30–45 min minimum): unstructured — no subject, no technique requirement, no standard to meet',
+          'Wet-brush/acrylic mood block (20–30 min): unstructured — no subject, no technique requirement, no standard to meet',
           'Use whichever thickness matches the feeling — thin for grief, thick for anger, both for complexity',
           'Date the board',
           'This Session B format runs every week of Phase 5 — never skip because Session A was hard',
@@ -95,17 +95,17 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: 'Free emotion acrylic only',
+        title: 'Acrylic mood (20–30 min) — designated voice practice',
         steps: [
           'No patient painting this week — colour wheel week stays clean',
-          'Mandatory emotion block (30–45 min minimum): unstructured acrylic on canvas board',
+          'Wet-brush/acrylic mood block (20–30 min): unstructured acrylic on canvas board',
           'Optional remaining time: continue the emotion board or start a second if the first filled early',
           'Date the board',
         ],
       },
     ],
     stopRule:
-      'Colour wheel must use mixed greens, oranges, purples — sneaking tube secondary colours defeats the exercise. Session B is emotion only — do not start Patient Painting A yet.',
+      'Colour wheel must use mixed greens, oranges, purples — sneaking tube secondary colours defeats the exercise. Session B is acrylic mood only — do not start Patient Painting A yet.',
   },
   {
     id: 'week-4',
@@ -135,7 +135,7 @@ export const phase5Weeks: WeekDetail[] = [
           'Session 1 (45 min hard block): thin wash underpainting on canvas board — ultramarine + white only, establishing lights and darks',
           'Stop mid-way with next step written on sticky note on back of board — e.g. "add second value pass" or "first glaze when dry"',
           'Let board dry completely before Week 5 Session A — minimum overnight if possible',
-          'Remaining time (30–45 min minimum): mandatory free emotion acrylic on a separate board — not on Patient A board',
+          'Remaining time: acrylic mood (20–30 min) on a separate board — not on Patient A board',
         ],
       },
     ],
@@ -163,9 +163,9 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: 'Free emotion acrylic only',
+        title: 'Acrylic mood (20–30 min) — designated voice practice',
         steps: [
-          'Mandatory emotion block (30–45 min minimum): unstructured acrylic',
+          'Wet-brush/acrylic mood block (20–30 min): unstructured acrylic',
           'Optional: use one colour that appeared in your series painting as the dominant emotion colour',
           'Do NOT do the 20-min problem study yet — that starts Week 6 after you have a previous series painting to diagnose',
           'Date the board',
@@ -196,17 +196,17 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: '20-min study on Series 1 weakness + emotion painting',
+        title: '20-min study on Series 1 weakness + acrylic mood',
         steps: [
           'Read what you wrote on the back of Series Painting 1',
           '20 min hard block: small board or paper — study ONLY that one problem (e.g. "sky too flat", "hands too small")',
-          'Mandatory emotion block (30–45 min minimum): free unstructured acrylic — remaining time',
+          'Wet-brush/acrylic mood block (20–30 min): free unstructured acrylic — remaining time',
           'Date both boards',
         ],
       },
     ],
     stopRule:
-      'The 20-min study is diagnostic — not a finished piece. One problem only. Session B emotion still mandatory even if study was frustrating.',
+      'The 20-min study is diagnostic — not a finished piece. One problem only. Session B acrylic mood (20–30 min) still runs even if study was frustrating — or count the series board if it already carried clear intent.',
   },
   {
     id: 'week-7',
@@ -227,10 +227,10 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: '20-min study from Painting 2 + emotion',
+        title: '20-min study from Painting 2 + acrylic mood',
         steps: [
           '20 min hard block: problem study from Painting 2\'s noted weakness only',
-          'Mandatory emotion block (30–45 min minimum): free unstructured acrylic',
+          'Wet-brush/acrylic mood block (20–30 min): free unstructured acrylic',
           'Date both boards',
         ],
       },
@@ -259,11 +259,11 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: 'Series painting 4 of 6 + 20-min study + emotion',
+        title: 'Series painting 4 of 6 + 20-min study + acrylic mood',
         steps: [
           'First 60–75 min: Series Painting 4 — 3 thumbnails (10 min), then paint. Same theme as Paintings 1–3',
           '20 min hard block: problem study from Painting 3 weakness on paper or small board',
-          'Mandatory emotion block (30–45 min minimum): if series and study consumed full 90 min, run emotion as a separate 30-min minimum block same week — do not skip',
+          'Wet-brush/acrylic mood block (20–30 min): if series and study consumed full 90 min, a short 20-min mood the same week is enough — or skip if the series board already carried clear expressive intent',
           'Photograph Series 4 when dry',
         ],
       },
@@ -290,11 +290,11 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: 'Series painting 5 of 6 + 20-min study + emotion',
+        title: 'Series painting 5 of 6 + 20-min study + acrylic mood',
         steps: [
           'First 60–75 min: Series Painting 5 — 3 thumbnails (10 min), then paint. Strongest attempt yet at the theme',
           '20 min hard block: problem study from Painting 4 weakness',
-          'Mandatory emotion block (30–45 min minimum): free unstructured acrylic — schedule separately if Session B ran long',
+          'Wet-brush/acrylic mood block (20–30 min): free unstructured acrylic — optional short mood if Session B ran long — series painting can count as expressive work that week',
           'Line up Paintings 1–5 when dry if possible — photograph',
         ],
       },
@@ -320,11 +320,11 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: '20-min study from Painting 5 + series reflection + emotion',
+        title: '20-min study from Painting 5 + series reflection + acrylic mood',
         steps: [
           '20 min hard block: problem study from Painting 5 weakness',
           '15 min written reflection: would you continue this series for 6 more? What would change?',
-          'Mandatory emotion block (30–45 min minimum): celebrate or mourn the series ending, whichever is honest',
+          'Wet-brush/acrylic mood block (20–30 min): celebrate or mourn the series ending, whichever is honest',
         ],
       },
     ],
@@ -353,9 +353,9 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: 'Emotion painting with palette knife',
+        title: 'Acrylic mood with palette knife',
         steps: [
-          'Mandatory emotion block (30–45 min minimum): free emotion work using ONLY palette knife',
+          'Wet-brush/acrylic mood block (20–30 min): free emotion work using ONLY palette knife',
           'Push texture to match feeling — heavy impasto for intensity, scrape smooth for quiet',
           'Date the board',
         ],
@@ -390,7 +390,7 @@ export const phase5Weeks: WeekDetail[] = [
           'Choose subject. 3 thumbnails — 10 min',
           'Session 1 (45 min hard block): underpainting only — thin wash establishing full value structure',
           'Write next step on sticky note. Let dry before Week 13',
-          'Mandatory emotion block (30–45 min minimum): separate board, unstructured acrylic',
+          'Wet-brush/acrylic mood block (20–30 min): separate board, unstructured acrylic',
         ],
       },
     ],
@@ -416,11 +416,11 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: 'Patient Painting C — sessions 2–3 + emotion (standalone)',
+        title: 'Patient Painting C — sessions 2–3 + acrylic mood (standalone)',
         steps: [
           'First 45 min: Patient Painting C session 2 on SAME board from Week 12 — follow sticky note, let dry if adding wet layers',
           'Next 30 min: Patient Painting C session 3 — finish until it reads at arm\'s length. Photograph Patient C',
-          'Mandatory emotion block (30–45 min minimum): free acrylic using whichever tool from Session A felt most expressive — separate board',
+          'Wet-brush/acrylic mood block (20–30 min): free acrylic using whichever tool from Session A felt most expressive — separate board',
         ],
       },
     ],
@@ -449,18 +449,18 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: 'Free emotion acrylic — no reference, no studies',
+        title: 'Imagination mood Session B — no reference, no studies',
         steps: [
-          'No reference still. No 20-min problem study this month — imagination month Session B is emotion only',
-          'Mandatory emotion block (30–45 min minimum): emotion painting from internal state only',
-          'Easier than Session A for most people — emotion does not require accurate drawing',
+          'No reference still. No 20-min problem study this month — imagination month Session B is mood/voice only',
+          'Wet-brush/acrylic mood block (20–30 min): mood painting from internal state only',
+          'Easier than Session A for most people — mood painting does not require accurate drawing',
           'Date the board',
         ],
       },
     ],
     stopRule:
       'Imagination month is diagnostic, not a test. What falls apart reveals what you still lean on reference for. Do not be discouraged.',
-    note: 'Four consecutive weeks no reference (Weeks 14–17). Session B = emotion only, no 20-min studies during imagination month.',
+    note: 'Four consecutive weeks no reference (Weeks 14–17). Session B = mood/voice only, no 20-min studies during imagination month.',
   },
   {
     id: 'week-15',
@@ -480,10 +480,10 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: 'Free emotion acrylic — no studies',
+        title: 'Acrylic mood — no studies',
         steps: [
           'No reference. No 20-min problem study',
-          'Mandatory emotion block (30–45 min minimum): unstructured acrylic',
+          'Wet-brush/acrylic mood block (20–30 min): unstructured acrylic',
           'Date the board',
         ],
       },
@@ -510,16 +510,16 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: 'Free emotion acrylic — no studies',
+        title: 'Acrylic mood — no studies',
         steps: [
           'No reference. No 20-min problem study',
-          'Mandatory emotion block (30–45 min minimum): unstructured acrylic',
+          'Wet-brush/acrylic mood block (20–30 min): unstructured acrylic',
           'Date the board',
         ],
       },
     ],
     stopRule:
-      'Session B stays emotion-only all imagination month — resist adding diagnostic studies until Week 18.',
+      'Session B stays mood/voice-only all imagination month — resist adding diagnostic studies until Week 18.',
   },
   {
     id: 'week-17',
@@ -547,7 +547,7 @@ export const phase5Weeks: WeekDetail[] = [
           'Choose subject. 3 thumbnails — 10 min',
           'Session 1 (45 min hard block): underpainting — value structure on canvas board',
           'Write next step on sticky note. Let dry before Week 18 Session B session 2',
-          'Mandatory emotion block (30–45 min minimum): free unstructured acrylic on separate board',
+          'Wet-brush/acrylic mood block (20–30 min): free unstructured acrylic on separate board',
         ],
       },
     ],
@@ -574,11 +574,11 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: 'Patient Painting D — sessions 2–3 + emotion',
+        title: 'Patient Painting D — sessions 2–3 + acrylic mood',
         steps: [
           'First 45 min: Patient Painting D sessions 2 and 3 on SAME board from Week 17 — finish until it reads at arm\'s length',
           'Photograph Patient Painting D — all four patient paintings (A–D) now complete',
-          'Mandatory emotion block (30–45 min minimum): current mood only — not revisiting old Phase 1 pages',
+          'Wet-brush/acrylic mood block (20–30 min): current mood only — not revisiting old Phase 1 pages',
         ],
       },
     ],
@@ -604,10 +604,10 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: 'Free emotion + optional Phase 4 comparison',
+        title: 'Acrylic mood + optional Phase 4 comparison',
         steps: [
           'If Phase 4 watercolor emotion translations exist, lay full arc: pencil → watercolor → acrylic — 15 min looking only',
-          'Mandatory emotion block (30–45 min minimum): free acrylic on current feeling',
+          'Wet-brush/acrylic mood block (20–30 min): free acrylic on current feeling',
           'Date the board',
         ],
       },
@@ -636,9 +636,9 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: 'Free emotion acrylic',
+        title: 'Acrylic mood',
         steps: [
-          'Mandatory emotion block (30–45 min minimum): unstructured acrylic — research week still needs feeling work',
+          'Wet-brush/acrylic mood block (20–30 min): unstructured acrylic — research week still needs feeling work',
           'Optional: thumbnail one subject idea for Week 21 method study — 10 min max, no painting',
           'Date the board',
         ],
@@ -666,9 +666,9 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: 'Free emotion acrylic (mandatory)',
+        title: 'Acrylic mood (mandatory this week)',
         steps: [
-          'Mandatory emotion block (30–45 min minimum): unstructured acrylic — not optional even if Session A was exhausting',
+          'Wet-brush/acrylic mood block (20–30 min): unstructured acrylic — not optional even if Session A was exhausting',
           'Date the board',
         ],
       },
@@ -697,9 +697,9 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: 'Free emotion acrylic',
+        title: 'Acrylic mood',
         steps: [
-          'Mandatory emotion block (30–45 min minimum): unstructured acrylic on a separate board',
+          'Wet-brush/acrylic mood block (20–30 min): unstructured acrylic on a separate board',
           'Do not touch the final painting board in Session B — let it dry undisturbed',
           'Date both boards',
         ],
@@ -728,9 +728,9 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: 'Free emotion acrylic',
+        title: 'Acrylic mood',
         steps: [
-          'Mandatory emotion block (30–45 min minimum): unstructured acrylic',
+          'Wet-brush/acrylic mood block (20–30 min): unstructured acrylic',
           'Optional 10 min: compare final painting to Series Painting 1 — write one sentence on growth',
           'Date the board',
         ],
@@ -759,12 +759,12 @@ export const phase5Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75–90 min',
-        title: 'Optional closing emotion (20 min minimum if you paint)',
+        title: 'Optional closing mood (20 min if you paint)',
         steps: [
-          'Retrospective writing from Session A is the main deliverable — emotion is optional this week',
+          'Retrospective writing from Session A is the main deliverable — mood painting is optional this week',
           'If you paint: 20 min minimum unstructured acrylic to close the roadmap with feeling, not just analysis',
           'If you skip painting: re-read your Week 24 written answers instead — that counts as closing',
-          'Date any board you make "Phase 5 — last emotion page"',
+          'Date any board you make "Phase 5 — last mood page"',
         ],
       },
     ],

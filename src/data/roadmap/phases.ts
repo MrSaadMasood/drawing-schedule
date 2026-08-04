@@ -19,7 +19,7 @@ export const phaseOverviews: PhaseOverview[] = [
       'Copy one master drawing per week (Rembrandt, Da Vinci sketches) — focus on line, not likeness',
       'Still life and Loomis on separate weeks — not stacked in one session',
       'Negative space drawings — draw the space around the object, not the object itself',
-      'One "emotion page" per week — fill a page with marks, lines, pressure that match how you feel',
+      'Four sparse expressive/emotion anchors (Weeks 1, 8, 11, 14) — dated pages for later paint translations',
     ],
     milestone: 'Milestone: Week 14 buffer — 2 sketchbooks ~80% full, every category present, then Phase 2.',
   },
@@ -41,7 +41,7 @@ export const phaseOverviews: PhaseOverview[] = [
       'Pencil still life and charcoal still life on separate weeks',
       'Master copy split across two weeks — analysis then completion',
       'Portrait value study after Loomis face-value week — not the same week as master copy finish',
-      'Emotion drawings every Session B — mood through light and dark alone',
+      'Six charcoal value mood labs — mood through light and dark alone (not every week)',
     ],
     milestone:
       'Milestone: sphere reads 3D, one charcoal still life and one portrait with clear light/shadow. Week 14 review before Phase 3.',

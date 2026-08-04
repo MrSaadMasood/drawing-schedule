@@ -18,8 +18,8 @@ export const timingCells: TimingCell[] = [
     value: 'At 45 min. Unfinished copy = full lesson.',
   },
   {
-    label: 'Emotion page',
-    value: 'When pages feel full — not when they look good.',
+    label: 'Expressive/emotion anchor',
+    value: 'At the assigned 20–25 min on Weeks 1, 8, 11, 14 — then back to skill work.',
   },
   {
     label: 'Full session',

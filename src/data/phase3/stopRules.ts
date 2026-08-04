@@ -26,8 +26,8 @@ export const timingCells: TimingCell[] = [
     value: '60 min shapes only. Detail optional after time.',
   },
   {
-    label: 'Emotion page (Session B)',
-    value: 'When the page feels full — notice where the eye rests.',
+    label: 'Compositional mood lab (Session B)',
+    value: '25–30 min on designated weeks — notice where the eye rests.',
   },
   {
     label: 'Full session',

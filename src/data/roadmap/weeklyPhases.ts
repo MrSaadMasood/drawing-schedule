@@ -10,7 +10,7 @@ export const weeklyPhaseOverviews: WeeklyPhaseOverview[] = [
     title: 'Seeing and mark-making — pencil only',
     meta: 'Months 1–4 · Week 0 + 14 weeks · ~3 hrs/week · 2 × 75 min sessions (Week 0: 45 min)',
     intro:
-      'Session A = one primary skill deliverable. Session B = mandatory emotion (30–45 min minimum) every week. Overloaded weeks were split for followability: still life and Loomis are separate weeks; thumbnails and narrative are separate weeks. Week 14 is an explicit buffer. Timed poses: line-of-action.com OR Proko free sample OR pause a YouTube figure video.',
+      'Session A = one primary skill deliverable. Session B = skill densification most weeks, with sparse expressive/emotion anchors on Weeks 1, 8, 11, and 14. Overloaded weeks were split for followability: still life and Loomis are separate weeks; thumbnails and narrative are separate weeks. Week 14 is an explicit buffer. Timed poses: line-of-action.com OR Proko free sample OR pause a YouTube figure video.',
     weeks: [
       {
         label: 'Week 0',
@@ -20,7 +20,7 @@ export const weeklyPhaseOverviews: WeeklyPhaseOverview[] = [
       {
         label: 'Week 1–2',
         title: 'Contour + first gestures',
-        body: 'Week 1: slow contour of your hand — 6 drawings, no shading. Week 2: 3 contours + 20–30 timed gestures from any pose source. Session B emotion every week.',
+        body: 'Week 1: slow contour of your hand — 6 drawings, no shading + first expressive mark anchor. Week 2: gestures Session A; object contours Session B (skill densification).',
       },
       {
         label: 'Week 3–4',
@@ -35,37 +35,37 @@ export const weeklyPhaseOverviews: WeeklyPhaseOverview[] = [
       {
         label: 'Week 7',
         title: 'One-point perspective',
-        body: 'Session A: boxes and room interior. Session B: memory place + emotion.',
+        body: 'Session A: boxes and room interior. Session B: memory place with perspective (full skill block).',
       },
       {
         label: 'Week 8',
         title: 'First still life only (split week)',
-        body: 'Session A: 75-min still life with 3 thumbnails — no Loomis this week. Session B: 45-min mandatory emotion.',
+        body: 'Session A: 75-min still life with 3 thumbnails — no Loomis this week. Session B: second still life + expressive mark anchor (25 min).',
       },
       {
         label: 'Week 9',
         title: 'Loomis head structure only (split week)',
-        body: 'Session A: 6 head constructions, no features. Session B: emotion.',
+        body: 'Session A: 6 head constructions, no features. Session B: more Loomis angles (skill densification).',
       },
       {
         label: 'Week 10',
         title: 'Texture and mark-making',
-        body: 'Mark sampler + 3 texture studies Session A. Gestures Session B + emotion.',
+        body: 'Mark sampler + 3 texture studies Session A. Structured figure gestures Session B (full).',
       },
       {
         label: 'Week 11',
         title: 'Thumbnail marathon only (split week)',
-        body: 'Max 12 thumbnails in 30 min, develop one 40 min. Session B: 45-min emotion. Thumbnail habit mandatory from here forward.',
+        body: 'Max 12 thumbnails in 30 min, develop one 40 min. Session B: thumbnail speed round + expressive mark anchor (25 min). Thumbnail habit mandatory from here forward.',
       },
       {
         label: 'Week 12',
         title: 'Narrative panels only (split week)',
-        body: 'Session A: 3-panel silent story. Session B: emotion.',
+        body: 'Session A: 3-panel silent story. Session B: panel revision (narrative is the expression work).',
       },
       {
         label: 'Week 13',
         title: 'Faces and hands in depth',
-        body: 'Session A: Loomis faces with features. Session B: 8 hand studies + emotion.',
+        body: 'Session A: Loomis faces with features. Session B: 12 hand studies (full skill block).',
       },
       {
         label: 'Week 14',
@@ -74,14 +74,14 @@ export const weeklyPhaseOverviews: WeeklyPhaseOverview[] = [
       },
       {
         label: 'Every week',
-        title: 'Emotion page (Session B)',
-        body: '30–45 min minimum every week through Phase 5. Date every page. Phase 1 pages become watercolor (Phase 4) and acrylic (Phase 5) expansions.',
+        title: 'Sparse expressive anchors (Session B)',
+        body: 'Weeks 1, 8, 11, 14 only (25–30 min). Date every page. These seed Phase 4 watercolor and Phase 5 acrylic translations — not weekly abstract filler.',
       },
     ],
     infoBox:
       'Phase 1 guide: 15 weeks total. One deliverable per Session A. Both documents agree on split weeks and Week 14 buffer.',
     milestone:
-      'Milestone: 2 sketchbooks ~80% full, every category present (gestures, hands, faces, perspective, still lifes, thumbnails, emotion, master copies). Week 14 buffer fills gaps before Phase 2.',
+      'Milestone: 2 sketchbooks ~80% full, skill categories present (gestures, hands, faces, perspective, still lifes, thumbnails, narrative, master copies) plus ≥4 dated expressive anchors. Week 14 buffer fills gaps before Phase 2.',
     milestoneBorder: '#c5dcb2',
     milestoneColor: '#27500A',
   },
@@ -94,7 +94,7 @@ export const weeklyPhaseOverviews: WeeklyPhaseOverview[] = [
     title: 'Value, light and shadow — pencil and charcoal',
     meta: 'Months 4–7 · 14 weeks · ~3.5 hrs/week · 2 × 75 min sessions',
     intro:
-      'Every session opens with a 3-minute value scale warm-up. Session A = one value deliverable. Session B ends with 25–30 min charcoal emotion. Still life, hands, master copy, Loomis, and portrait each have dedicated weeks — not stacked.',
+      'Every session opens with a 3-minute value scale warm-up. Session A = one value deliverable. Session B densifies skill most weeks; value mood labs (25–30 min) on Weeks 1, 4, 6, 8, 11, 14. Still life, hands, master copy, Loomis, and portrait each have dedicated weeks — not stacked.',
     weeks: [
       {
         label: 'Week 1–2',
@@ -124,7 +124,7 @@ export const weeklyPhaseOverviews: WeeklyPhaseOverview[] = [
       {
         label: 'Week 9',
         title: 'Hand value studies',
-        body: '8 hand positions with value. Session B emotion close.',
+        body: '8 hand positions with value. Session B hand value volume (no mood lab).',
       },
       {
         label: 'Week 10–11',
@@ -148,8 +148,8 @@ export const weeklyPhaseOverviews: WeeklyPhaseOverview[] = [
       },
       {
         label: 'Every week',
-        title: 'Emotion in charcoal (Session B)',
-        body: '25–30 min minimum at end of Session B — mood through value masses alone.',
+        title: 'Value mood labs (Session B)',
+        body: 'Six labs (Weeks 1, 4, 6, 8, 11, 14) — mood through value masses alone. Other weeks: skill densification.',
       },
     ],
     infoBox:
@@ -168,7 +168,7 @@ export const weeklyPhaseOverviews: WeeklyPhaseOverview[] = [
     title: 'Composition and storytelling — still pencil/charcoal',
     meta: 'Months 7–11 · 16 weeks · ~3.5 hrs/week · 2 × 75 min sessions',
     intro:
-      'Thumbnails mandatory before developed work — max 12 per 30 min. Session B emotion every week. Weeks 12 and 16 are explicit buffers. Fresh-eyes review replaces showing work to someone else.',
+      'Thumbnails mandatory before developed work — max 12 per 30 min. Compositional mood labs on designated weeks; narrative/posture weeks carry expression through craft. Weeks 12 and 16 are explicit buffers. Fresh-eyes review replaces showing work to someone else.',
     weeks: [
       {
         label: 'Week 1–2',
@@ -198,12 +198,12 @@ export const weeklyPhaseOverviews: WeeklyPhaseOverview[] = [
       {
         label: 'Week 12',
         title: 'Perspective buffer',
-        body: 'Light one-point scene refresh if needed. Session B emotion.',
+        body: 'Light one-point scene refresh if needed. Session B second spatial pass.',
       },
       {
         label: 'Week 13–14',
         title: 'Showpiece + master copy (split)',
-        body: 'Week 13: 75–90 min best composition Session A, emotion only Session B. Week 14: master composition copy Session A.',
+        body: 'Week 13: 75–90 min best composition Session A, short mood echo Session B. Week 14: master composition copy Session A + apply stolen device.',
       },
       {
         label: 'Week 15–16',
@@ -212,8 +212,8 @@ export const weeklyPhaseOverviews: WeeklyPhaseOverview[] = [
       },
       {
         label: 'Every week',
-        title: 'Emotion with compositional intent',
-        body: 'Notice where the eye enters and rests — even on pure feeling pages.',
+        title: 'Expression via story + mood labs',
+        body: 'Narrative/posture weeks teach feeling through craft. Mood labs on Weeks 1–2, 5–7, 13 train eye path without weekly filler.',
       },
     ],
     infoBox:
@@ -232,7 +232,7 @@ export const weeklyPhaseOverviews: WeeklyPhaseOverview[] = [
     title: 'First contact with paint — watercolor',
     meta: 'Months 11–16 · 20 weeks · ~3.5 hrs/week · 2 × 75 min sessions',
     intro:
-      'Work light to dark. Weeks 1–3 washes only (Week 3 = buffer gate). Color temperature notes from Week 4. Multi-layer work spans sessions — dry between. Session B emotion mandatory from Week 3. Weeks 19–20 are mud/overwork buffers.',
+      'Work light to dark. Weeks 1–3 washes only (Week 3 = buffer gate). Color temperature notes from Week 4. Multi-layer work spans sessions — dry between. Wet-brush mood on designated weeks (25 min), not every Session B. Weeks 19–20 are mud/overwork buffers.',
     weeks: [
       {
         label: 'Week 1–3',
@@ -281,8 +281,8 @@ export const weeklyPhaseOverviews: WeeklyPhaseOverview[] = [
       },
       {
         label: 'Every week',
-        title: 'Free watercolor emotion (Session B)',
-        body: '45 min mandatory from Week 3. Unstructured — wet brush and feeling.',
+        title: 'Wet-brush mood (Session B)',
+        body: '25 min on designated weeks. Translations Weeks 12–13 kept in full. Alternate weeks densify skies, landscapes, still life.',
       },
     ],
     warnBox:
@@ -303,7 +303,7 @@ export const weeklyPhaseOverviews: WeeklyPhaseOverview[] = [
     title: 'Acrylic — building, experimenting, your voice',
     meta: 'Months 16–22 · 24 weeks · ~3 hrs/week · 2 × 75–90 min sessions',
     intro:
-      'Session B emotion mandatory every week (30–45 min minimum). Six-painting series Weeks 5–10. Patient paintings on dedicated weeks — never parallel with series climax or imagination month. Final painting Weeks 22–23 on different calendar days. Week 24: photo retrospective of 10 best per phase — not a full floor spread.',
+      'Acrylic mood 20–30 min most Session Bs (dose-controlled). Six-painting series Weeks 5–10. Patient paintings on dedicated weeks — never parallel with series climax or imagination month. Imagination + Phase 1 expansions keep fuller voice practice. Final painting Weeks 22–23 on different calendar days. Week 24: photo retrospective of 10 best per phase — not a full floor spread.',
     weeks: [
       {
         label: 'Week 1–2',
@@ -328,7 +328,7 @@ export const weeklyPhaseOverviews: WeeklyPhaseOverview[] = [
       {
         label: 'Week 14–17',
         title: 'Imagination month',
-        body: 'Four weeks no reference. Session B emotion only — no 20-min studies. Patient D after imagination (Weeks 17–18).',
+        body: 'Four weeks no reference. Session B mood/voice only — no 20-min studies. Patient D after imagination (Weeks 17–18).',
       },
       {
         label: 'Week 18–19',
@@ -338,7 +338,7 @@ export const weeklyPhaseOverviews: WeeklyPhaseOverview[] = [
       {
         label: 'Week 20–21',
         title: 'Living artist study',
-        body: 'Week 20: research Session A. Week 21: method-influenced study + mandatory emotion Session B.',
+        body: 'Week 20: research Session A. Week 21: method-influenced study + acrylic mood Session B.',
       },
       {
         label: 'Week 22–24',
@@ -347,8 +347,8 @@ export const weeklyPhaseOverviews: WeeklyPhaseOverview[] = [
       },
       {
         label: 'Every week',
-        title: 'Free acrylic emotion (Session B)',
-        body: 'Never optional. Technical work without this becomes performance.',
+        title: 'Acrylic mood + voice weeks (Session B)',
+        body: '20–30 min most weeks; imagination and Phase 1 expansions are the non-negotiable voice blocks.',
       },
     ],
     infoBox:

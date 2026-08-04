@@ -81,7 +81,7 @@ export const phase4Weeks: WeekDetail[] = [
     id: 'week-3',
     weekNumber: 3,
     title: 'Wash consolidation — buffer before mixing',
-    focus: 'Skill: streak-free gate · repeat weak wash types · Session B emotion begins (mandatory 45 min)',
+    focus: 'Skill: streak-free gate · repeat weak wash types · Session B wet-brush mood begins (25 min on designated weeks)',
     badge: month10,
     sessions: [
       {
@@ -97,12 +97,12 @@ export const phase4Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Mandatory emotion painting (45 min) after wash work',
+        title: 'Wet-brush mood (25 min) after wash work',
         steps: [
-          'First 45 min (mandatory, timed): free watercolor emotion page — one or two colours, wet brush, no subject, no planning',
+          'First 25 min: wet-brush mood page — one or two colours, no subject, no planning',
           'Date the page. Write one feeling word in the corner',
-          'Remaining 30 min: one more wash sheet of your weakest type OR extend the emotion page if the wash gate already passed',
-          'Session B emotion is mandatory every week from Week 3 through Week 20 — never skip because skill work ran long',
+          'Remaining 50 min: one more wash sheet of your weakest type OR a second graded wash',
+          'Wet-brush mood labs are scheduled (not every week). Wash weeks prioritise streak-free sheets; mood returns on designated weeks through Week 18 close',
         ],
       },
     ],
@@ -131,16 +131,16 @@ export const phase4Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Mandatory emotion (45 min) + wet-on-wet blooms',
+        title: 'Wet-on-wet blooms (full skill block — no mood lab this week)',
         steps: [
-          'First 45 min (mandatory): free emotion page — blooms as mood if you like; no subject',
+          'Full session: wet-on-wet bloom sheets — 3 colours max, watch blooms form, no subject required',
           'Remaining time: wet paper evenly, drop concentrated colour, do not touch once dropped — 1–2 bloom sheets',
           'When the bloom stops spreading on its own, put the brush down — touching mid-spread creates mud',
         ],
       },
     ],
     stopRule:
-      'Grid cells: stop when the half-grid is filled or 75 min ends — incomplete rows carry to Week 5. Blooms: stop when spread stops. Let bloom sheets dry before stacking. Session B emotion timer is non-negotiable.',
+      'Grid cells: stop when the half-grid is filled or 75 min ends — incomplete rows carry to Week 5. Blooms: stop when spread stops. Let bloom sheets dry before stacking. No mood lab this week — blooms are the Session B job.',
   },
   {
     id: 'week-5',
@@ -162,9 +162,9 @@ export const phase4Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Mandatory emotion (45 min) + wet-on-wet sky practice',
+        title: 'Wet-brush mood (25 min) + wet-on-wet sky practice',
         steps: [
-          'First 45 min (mandatory): unstructured emotion painting — 3 colours maximum, no planning',
+          'First 25 min: wet-brush mood — 3 colours maximum, no planning',
           'Remaining time: one wet-on-wet sky gradient sheet — blue bleeding lighter at horizon; note timing for Week 6',
         ],
       },
@@ -172,7 +172,7 @@ export const phase4Weeks: WeekDetail[] = [
     stopRule:
       'End of Month 10 check: wash sheets from Weeks 1–3, complete mixing grid, at least 1 wet-on-wet sheet. If the grid is incomplete, finish it before skies — mud in landscapes comes from skipping this week.',
     milestone:
-      'End of Month 10 check: mixing grid complete with mud/beauty marks. You can explain why equal complements make mud. Session B emotion pages exist for Weeks 3–5.',
+      'End of Month 10 check: mixing grid complete with mud/beauty marks. You can explain why equal complements make mud. Mood labs: Week 3 and Week 5; Week 4 was blooms-only skill densification.',
   },
   {
     id: 'week-6',
@@ -194,9 +194,9 @@ export const phase4Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Mandatory emotion (45 min)',
+        title: 'Wet-brush mood (25 min)',
         steps: [
-          'First 45 min (mandatory): free watercolor emotion — weather as mood OK, no horizon required',
+          'First 25 min: wet-brush mood — weather as mood OK, no horizon required',
           "Remaining 30 min: rest, label today's skies, or one loose sky experiment if energy remains",
           'Date the emotion page',
         ],
@@ -225,15 +225,18 @@ export const phase4Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Mandatory emotion (45 min)',
+        title: 'Sky densification — count and fill to 6',
         steps: [
-          'First 45 min (mandatory): emotion page — dark washes and lifts express feeling, no subject',
-          'Remaining 30 min: count sky paintings across Weeks 6–7 — minimum 6 total. If fewer than 6, paint one more sky before Week 8 landscapes',
+          'No mood lab this week — sky volume instead',
+          'Count sky paintings across Weeks 6–7 — minimum 6 total',
+          'If fewer than 6, paint the missing skies (25 min each) before Week 8 landscapes',
+          'If already at 6+: label all skies with warm/cool notes and photograph the stack',
+          'Write one sentence: which sky timing mistake repeats most?',
         ],
       },
     ],
     stopRule:
-      'Minimum 6 sky paintings across Weeks 6–7 before Week 8. Session A stops at 3 skies today. Dry skies fully between sessions before comparing or stacking.',
+      'Minimum 6 sky paintings across Weeks 6–7 before Week 8. Session A stops at 3 skies today. Session B fills the count — not a mood lab. Dry skies fully between sessions before comparing or stacking.',
   },
   {
     id: 'week-8',
@@ -255,9 +258,9 @@ export const phase4Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Mandatory emotion (45 min)',
+        title: 'Wet-brush mood (25 min)',
         steps: [
-          'First 45 min (mandatory): unstructured emotion painting — wet brush, no standard to meet',
+          'First 25 min: wet-brush mood — wet brush, no standard to meet',
           'Remaining 30 min: optional rest or label Week 8 landscape when dry',
           'Notice: watercolor rewards surrender — some emotion sessions crack open, some feel mechanical. Both valid',
         ],
@@ -286,10 +289,12 @@ export const phase4Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Mandatory emotion (45 min)',
+        title: 'Cool vs warm comparison + second cool landscape attempt',
         steps: [
-          'First 45 min (mandatory): free emotion watercolor',
-          'Remaining 30 min: write one sentence — which palette matched your actual environment this week?',
+          'No mood lab this week — landscape densification instead',
+          'Place Week 8 and Week 9 landscapes side by side when dry — write 3 temperature observations',
+          'Remaining time: second cool-palette landscape OR redraw Week 9 with one fewer glaze — stop before mud',
+          'Write one sentence — which palette matched your actual environment this week?',
         ],
       },
     ],
@@ -319,12 +324,13 @@ export const phase4Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Mandatory emotion (45 min)',
+        title: 'Still life attempt 2 prep notes + white-check drill',
         steps: [
-          'First 45 min (mandatory): no subject required — unstructured brush and feeling',
-          'Optional: one colour from your still life palette as dominant emotion colour',
+          'No mood lab this week — still life densification instead',
+          'Write Week 10 mistakes as a checklist for Week 11 Session A (whites lost, mud, overwork)',
+          '20 min: paint a single white object (egg or cup) — practice leaving paper white, one glaze only',
+          'Remaining time: 3 new thumbnails of the same still life setup for next week',
           'Do not start still life attempt 2 in Session B — that is Week 11 Session A',
-          'Date the page',
         ],
       },
     ],
@@ -351,15 +357,15 @@ export const phase4Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Mandatory emotion (45 min)',
+        title: 'Wet-brush mood (25 min)',
         steps: [
-          'First 45 min (mandatory): unstructured emotion — still life weeks are draining; never skip',
+          'First 25 min: wet-brush mood — still life weeks are draining; keep the short mood block',
           'Remaining 30 min: finish writing 3 differences between attempts if not done in Session A',
         ],
       },
     ],
     stopRule:
-      'The comparison between attempt 1 and 2 is mandatory. Session B emotion timer is mandatory. If whites were lost both times, simplify to one object and repeat Week 10 planning before emotion translation weeks.',
+      'The comparison between attempt 1 and 2 is mandatory. Session B mood timer is 25 min when scheduled. If whites were lost both times, simplify to one object and repeat Week 10 planning before emotion translation weeks.',
   },
   {
     id: 'week-12',
@@ -381,9 +387,9 @@ export const phase4Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Mandatory emotion (45 min) — new page, brush only',
+        title: 'Wet-brush mood (25 min) — new page, brush only',
         steps: [
-          'First 45 min (mandatory): completely new emotion page — no pencil underdrawing, direct brush',
+          'First 25 min: completely new wet-brush mood page — no pencil underdrawing, direct brush',
           'Current mood only — not revisiting the Week 12 Session A page',
           'Remaining 30 min: note which felt more honest — planned translation vs brush-only',
           'Date both pages',
@@ -413,9 +419,9 @@ export const phase4Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Mandatory emotion (45 min)',
+        title: 'Wet-brush mood (25 min)',
         steps: [
-          'First 45 min (mandatory): free watercolor emotion — no technique goal',
+          'First 25 min: free watercolor mood — no technique goal',
           'Remaining 30 min: label both translation pages with mood words and dates',
         ],
       },
@@ -442,9 +448,9 @@ export const phase4Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Mandatory emotion (45 min)',
+        title: 'Wet-brush mood (25 min)',
         steps: [
-          'First 45 min (mandatory): emotion page — no subject',
+          'First 25 min: wet-brush mood — no subject',
           'Remaining 30 min: do not paint golden hour yet — that is Week 15 Session A. Label morning painting when dry',
         ],
       },
@@ -471,10 +477,12 @@ export const phase4Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Mandatory emotion (45 min)',
+        title: 'Light-study comparison + shadow-colour swatches',
         steps: [
-          'First 45 min (mandatory): unstructured emotion painting',
-          'Remaining 30 min: finish comparison sentences if needed',
+          'No mood lab this week — light-study densification instead',
+          'Finish comparison sentences between morning and golden-hour paintings',
+          'Paint 6 shadow-colour swatches: cool morning shadows vs warm-light cool-violet shadows',
+          'Label Week 14/15 pair and photograph side by side',
         ],
       },
     ],
@@ -503,9 +511,9 @@ export const phase4Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Mandatory emotion (45 min)',
+        title: 'Wet-brush mood (25 min)',
         steps: [
-          'First 45 min (mandatory): free emotion watercolor — no subject, no technique requirement',
+          'First 25 min: wet-brush mood watercolor — no subject, no technique requirement',
           'Remaining 30 min: rest or label Session A piece',
         ],
       },
@@ -532,10 +540,12 @@ export const phase4Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Mandatory emotion (45 min)',
+        title: 'Careful vs loose comparison (full skill block)',
         steps: [
-          'First 45 min (mandatory): emotion page',
-          'Remaining 30 min: write one sentence comparing Week 16 vs Week 17 process',
+          'No mood lab this week — process comparison instead',
+          'Place Week 16 and Week 17 side by side when dry',
+          'Write 5 sentences: which has more life? Where did careful planning help? Where did it kill energy?',
+          'Optional: one 20-min loose miniature of same subject type — stop before mud',
         ],
       },
     ],
@@ -566,8 +576,8 @@ export const phase4Weeks: WeekDetail[] = [
           'First 30 min: lay out ALL watercolor from Week 1 — washes, grid, skies, landscapes, still lifes, two-light study, emotion pages',
           'Write 3 improvements (e.g. "blooms less scary", "shadows cooler under warm light", "stop before mud")',
           'Write 2 remaining weaknesses (e.g. "still lose whites", "overwork landscapes")',
-          'Write 3 habits for Phase 5: mix warmer than you think (acrylic dries darker), plan like watercolor but allow revision, keep emotion Session B forever',
-          'Final 45 min (mandatory): emotion painting — close the phase with unstructured brush work',
+          'Write 3 habits for Phase 5: mix warmer than you think (acrylic dries darker), plan like watercolor but allow revision, keep wet-brush mood on designated Session Bs — not as empty weekly filler',
+          'Final 30 min: wet-brush mood close — unstructured brush work',
         ],
       },
     ],
@@ -596,9 +606,9 @@ export const phase4Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Mandatory emotion (45 min) + optional second buffer sprint',
+        title: 'Buffer skill sprint (full) — optional short mood only if energy remains',
         steps: [
-          'First 45 min (mandatory): emotion painting',
+          'First 55 min: buffer skill sprint on mud/overwork weakness',
           'Remaining 30 min: second buffer sprint on same weakness OR rest if Session A was enough',
         ],
       },
@@ -625,9 +635,9 @@ export const phase4Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Mandatory emotion (45 min) + Phase 5 entry note',
+        title: 'Phase 5 entry note + final wet-brush mood (25 min)',
         steps: [
-          'First 45 min (mandatory): final Phase 4 emotion page — date it',
+          'First 25 min: final Phase 4 wet-brush mood page — date it',
           'Remaining 30 min: one sentence — "I start Phase 5 when ___" (fill in your gate). If not ready, schedule another wash week before opening acrylic',
         ],
       },
@@ -635,6 +645,6 @@ export const phase4Weeks: WeekDetail[] = [
     stopRule:
       'Phase 4 fully complete when Week 18 gate passes AND buffer needs are met (or Weeks 19–20 honestly used). Multi-session rule for all future paint: dry between sessions before glazing. Phase 5 begins only after this gate — not because the calendar says so.',
     milestone:
-      'Twenty weeks done: washes trustworthy, grid complete, skies and landscapes not consistently muddy, still life whites attempted twice, emotion thread unbroken from Week 3. Buffer weeks 19–20 exist so you do not lie to yourself about readiness.',
+      'Twenty weeks done: washes trustworthy, grid complete, skies and landscapes not consistently muddy, still life whites attempted twice, Phase 1 emotion translations done, wet-brush mood on designated weeks. Buffer weeks 19–20 exist so you do not lie to yourself about readiness.',
   },
 ]

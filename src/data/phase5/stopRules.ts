@@ -30,8 +30,8 @@ export const timingCells: TimingCell[] = [
     value: '90 min. No reference — diagnostic, not a test.',
   },
   {
-    label: 'Emotion painting (Session B)',
-    value: '30–45 min minimum. Stop when full, not when good.',
+    label: 'Acrylic mood (Session B)',
+    value: '20–30 min most weeks. Imagination/expansions keep fuller voice blocks. Stop when full, not when good.',
   },
 ]
 
@@ -64,7 +64,7 @@ export const drawingStopSteps: CopyStep[] = [
 ]
 
 export const stopWarnBox =
-  'For Phase 5 specifically: the series (Weeks 5–9) and imagination month (Weeks 13–16) are designed to produce uneven work. Uneven is correct. The goal is a body of work with emerging themes — not a portfolio of equally polished pieces. Session B emotion painting is never graded. Never skip it because Session A felt hard.'
+  'For Phase 5 specifically: the series (Weeks 5–9) and imagination month (Weeks 13–16) are designed to produce uneven work. Uneven is correct. The goal is a body of work with emerging themes — not a portfolio of equally polished pieces. Session B acrylic mood is never graded. Imagination and Phase 1 expansion weeks are the non-negotiable voice blocks.'
 
 export const askButtons = [
   {

@@ -26,8 +26,8 @@ export const timingCells: TimingCell[] = [
     value: '90 min. No outlines allowed.',
   },
   {
-    label: 'Charcoal emotion page',
-    value: 'When the page feels full — not when it looks good.',
+    label: 'Value mood lab',
+    value: '25–30 min on Weeks 1, 4, 6, 8, 11, 14 only — when the page feels full, stop.',
   },
   {
     label: 'Full session',

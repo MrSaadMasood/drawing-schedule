@@ -30,8 +30,8 @@ export const timingCells: TimingCell[] = [
     value: 'When the bloom stops spreading — put the brush down.',
   },
   {
-    label: 'Emotion painting (Session B)',
-    value: 'When the page feels full — not when it looks good.',
+    label: 'Wet-brush mood (Session B)',
+    value: '25 min on designated weeks — stop when full, not when good.',
   },
 ]
 
@@ -64,7 +64,7 @@ export const drawingStopSteps: CopyStep[] = [
 ]
 
 export const stopWarnBox =
-  'The most common watercolor mistake is adding more paint to a wet area to fix it. Wet on wet creates blooms. Stop. Let it dry. Then reassess. For Phase 4 specifically: a loose finished painting beats a overworked ruined one every time. Some of your best work this phase will be Session B emotion pages you did not plan at all.'
+  'The most common watercolor mistake is adding more paint to a wet area to fix it. Wet on wet creates blooms. Stop. Let it dry. Then reassess. For Phase 4 specifically: a loose finished painting beats a overworked ruined one every time. Some of your best work this phase will be wet-brush mood pages or Phase 1 translations you did not over-plan.'
 
 export const askButtons = [
   {

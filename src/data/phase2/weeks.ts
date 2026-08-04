@@ -9,7 +9,7 @@ export const phase2Weeks: WeekDetail[] = [
     id: 'week-1',
     weekNumber: 1,
     title: 'Charcoal introduction + value scale mastery',
-    focus: 'New medium setup · 10-step value scale in pencil and charcoal · first charcoal emotion page',
+    focus: 'New medium setup · 10-step value scale in pencil and charcoal · first value mood lab',
     badge: month4,
     sessions: [
       {
@@ -27,20 +27,20 @@ export const phase2Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Value scale in charcoal + emotion close',
+        title: 'Value scale in charcoal + value mood lab #1',
         steps: [
           '3-minute value scale warm-up in charcoal',
           'Draw 2 full 10-step scales on charcoal paper — second scale: use blending stump on steps 4–8 only',
           'Practice lifting a highlight: press kneaded eraser into the lightest box until paper shows through',
           'Check your setup: vertical board or easel if you have one; otherwise lay wax paper or scrap paper under your drawing hand to limit smudging. Fixative is optional — not required this week',
-          'Final 25–30 min: charcoal emotion page — fill one page with mood using only value patches, no subject, no outlines',
+          'Final 25–30 min: value mood lab #1 of 6 — fill one page with mood using only value patches, no subject, no outlines',
           'Use at least 5 distinct values from your scale. Heavy compressed charcoal for darkest mood, lifted eraser for lightest',
           'Date the page and write one word in the corner describing the feeling. Stop when the page feels full — not when it looks like art',
         ],
       },
     ],
     stopRule:
-      'When to stop: value scale drills end when all assigned scales are filled or 30 minutes pass — whichever comes first. Emotion page: when the page feels full. Do not polish the emotion page into something presentable.',
+      'When to stop: value scale drills end when all assigned scales are filled or 30 minutes pass — whichever comes first. Mood lab: when the page feels full. Do not polish the mood page into something presentable.',
     note: 'Buy charcoal paper before this week if you have not already. Regular sketchbook paper will not hold charcoal properly. Charcoal setup: vertical board or easel keeps paper clean; wax paper under your hand works on a flat desk. Fixative is optional — use only if smudging ruins finished work. The 3-minute value scale warm-up at the start of every session this phase calibrates your eye — skipping it is the most common reason value judgements drift mid-session.',
   },
   {
@@ -64,13 +64,12 @@ export const phase2Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Charcoal blending + weak area #2 + emotion close',
+        title: 'Charcoal blending + weak area #2 + primitive value volume',
         steps: [
           '3-minute charcoal value scale warm-up',
           '30 min sprint on weak area #2 from Phase 1 review',
-          '15 min: shade a simple cube and cylinder under your lamp — value only, no outlines, same light direction as always',
-          'Final 25–30 min: charcoal emotion page — mood through light and dark masses alone, no subject',
-          'No outlines allowed on the emotion page — if you catch yourself drawing edges, smudge them into shadow mass',
+          '35 min: shade a simple cube, cylinder, and sphere under your lamp — value only, no outlines, same light direction as always — ~10–12 min each',
+          'No mood lab this week — skill densification only (labs on Weeks 1, 4, 6, 8, 11, 14)',
         ],
       },
     ],
@@ -102,14 +101,14 @@ export const phase2Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Gesture warm-up + shadow shapes on primitives + emotion close',
+        title: 'Gesture warm-up + shadow shapes on primitives (volume)',
         steps: [
           '3-minute charcoal value scale warm-up',
-          '10 min: line-of-action.com — 2-minute poses, 5 gestures (structure only, light lines)',
-          'Draw shadow shapes only on 3 primitive forms under the lamp: sphere, box, cylinder',
+          '15 min: line-of-action.com — 2-minute poses, 7 gestures (structure only, light lines)',
+          'Draw shadow shapes only on 4 primitive forms under the lamp: sphere, box, cylinder, cone',
           'Shade the shadow side solid black — leave the light side paper white with no outline between them',
           '12 min per form — hard timer',
-          'Final 25–30 min: charcoal emotion page — one large shadow shape dominating the page, mood through a single dark mass',
+          'No mood lab this week — extra shadow-shape reps instead',
         ],
       },
     ],
@@ -139,13 +138,14 @@ export const phase2Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Charcoal gradient shadows + gesture + emotion close',
+        title: 'Charcoal gradient shadows + gesture + value mood lab #2',
         steps: [
           '3-minute charcoal value scale warm-up',
           '10 min: 2-minute gestures from line-of-action.com — 5 poses',
           'Same 3 objects as Session A (or 3 new ones) — charcoal with blending stump for soft shadow transitions',
-          '18 min per object — push darkest darks with compressed charcoal in the core shadow only',
-          'Final 25–30 min: charcoal emotion page — two value zones only (light mass and dark mass), minimal midtone',
+          '12 min per object — push darkest darks with compressed charcoal in the core shadow only',
+          'Final 25–30 min: value mood lab #2 of 6 — two value zones only (light mass and dark mass), minimal midtone',
+          'Date the page and write one feeling word',
         ],
       },
     ],
@@ -175,15 +175,15 @@ export const phase2Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Cylinder and cone in value + gesture + emotion close',
+        title: 'Cylinder and cone in value + gesture volume',
         steps: [
           '3-minute charcoal value scale warm-up',
-          '10 min: 2-minute gestures — 5 poses from line-of-action.com',
+          '15 min: 2-minute gestures — 7 poses from line-of-action.com',
           'Shade a cylinder in charcoal — no outline, value only, same upper-left light as spheres',
           'Shade a cone the same way — notice how the shadow shape differs from the sphere',
-          '2 cylinders and 2 cones, 12 min each',
-          'Compare all four: which form was hardest to make read as 3D? Write one sentence on the page',
-          'Final 25–30 min: charcoal emotion page — mood through value masses only, no subject',
+          '3 cylinders and 2 cones, 10–12 min each',
+          'Compare all five: which form was hardest to make read as 3D? Write one sentence on the page',
+          'No mood lab this week — form-value volume instead',
         ],
       },
     ],
@@ -211,20 +211,21 @@ export const phase2Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Figure mannequin with value + emotion close',
+        title: 'Figure mannequin with value + value mood lab #3',
         steps: [
           '3-minute charcoal value scale warm-up',
           '12 min: 3-minute gesture poses — 4 figures from line-of-action.com',
           'Draw standing figure as Phase 1 mannequin (oval head, box torso, cylinder limbs) WITH simple value',
           'One light source from the left — shadow on the right side of every form, no facial features, no detail',
-          '4 figures in different poses, 10 min each — sitting, standing, leaning, reaching',
-          'After all 4: which limb reads most flat? Repeat that limb alone for 5 min with exaggerated shadow',
-          'Final 25–30 min: charcoal emotion page — mood through light and dark masses alone, no subject',
+          '3 figures in different poses, 10 min each — sitting, standing, leaning',
+          'After figures: which limb reads most flat? Repeat that limb alone for 5 min with exaggerated shadow',
+          'Final 25–30 min: value mood lab #3 of 6 — mood through light and dark masses alone, no subject',
+          'Date and one feeling word',
         ],
       },
     ],
     stopRule:
-      'When to stop figures: 10 min each, 4 total. The point is volume through shadow on simple forms, not a beautiful figure drawing.',
+      'When to stop figures: 10 min each before the mood lab. The point is volume through shadow on simple forms, not a beautiful figure drawing.',
   },
   {
     id: 'week-7',
@@ -247,12 +248,13 @@ export const phase2Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Second pencil still life + emotion close',
+        title: 'Second pencil still life (full skill block)',
         steps: [
           '3-minute pencil value scale warm-up',
           'New arrangement OR same setup from a different angle — 3 thumbnails mandatory (2 min each)',
-          '50 min: second pencil still life — same rules: value first, no outline dependency',
-          'Final 25 min: charcoal emotion page — mood through light and dark alone, no subject. Pencil still life may feel analytical; let tone carry the feeling',
+          '65 min: second pencil still life — same rules: value first, no outline dependency',
+          'Photograph and desaturate — note one value error vs Session A',
+          'No mood lab this week — still life volume instead',
         ],
       },
     ],
@@ -280,26 +282,27 @@ export const phase2Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Charcoal still life #2 + shadow mass study + emotion close',
+        title: 'Charcoal still life #2 + shadow mass study + value mood lab #4',
         steps: [
           '3-minute charcoal value scale warm-up',
           '3 thumbnails — different composition than Session A',
-          '35 min: second charcoal still life OR finish Session A if clearly unfinished — pick one, write which on the page',
-          '15 min: redraw only the shadow masses from your setup in charcoal — no object detail, masses only',
+          '30 min: second charcoal still life OR finish Session A if clearly unfinished — pick one, write which on the page',
+          '10 min: redraw only the shadow masses from your setup in charcoal — no object detail, masses only',
           'Compare shadow study to still life — do the darks sit in the same places?',
-          'Final 25–30 min: charcoal emotion page — mood through light and dark masses only, no subject',
+          'Final 25–30 min: value mood lab #4 of 6 — mood through light and dark masses only, no subject',
+          'Date and one feeling word',
         ],
       },
     ],
     stopRule:
-      'When to stop still life: 75 min on the nose in Session A. Session B still life: 35 min hard cap unless finishing Session A. Emotion page: 25–30 min minimum — never skip because still life ran long.',
+      'When to stop still life: 75 min on the nose in Session A. Session B still life: 30 min hard cap unless finishing Session A. Mood lab #4: 25–30 min — scheduled this week, do not skip because still life ran long.',
     milestone:
-      'End of Month 5 check: you have pencil still life (Week 7) and charcoal still life (Week 8), spheres that read 3D, and figure mannequins with shadow. If still life value is muddy, repeat Week 8 before hands.',
+      'End of Month 5 check: you have pencil still life (Week 7) and charcoal still life (Week 8), spheres that read 3D, and figure mannequins with shadow. Mood labs so far: Weeks 1, 4, 6, 8. If still life value is muddy, repeat Week 8 before hands.',
   },
   {
     id: 'week-9',
     weekNumber: 9,
-    title: 'Hand value studies + emotion',
+    title: 'Hand value studies',
     focus: 'Box palm + cylinder fingers · shadow side only · compare to Phase 1 line hands',
     badge: month5,
     sessions: [
@@ -316,17 +319,17 @@ export const phase2Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Hand value sprint + emotion close',
+        title: 'Hand value sprint (full skill block)',
         steps: [
           '3-minute charcoal value scale warm-up',
-          'Pick your weakest hand position from Session A — redraw it 4 times, 8 min each, exaggerating shadow mass',
-          '15 min: both hands clasped or overlapping — one combined shadow shape, value only',
-          'Final 25–30 min: charcoal emotion page — mood through light and dark masses only, no subject. Hands may have drained you; let tone carry the feeling',
+          'Pick your weakest hand position from Session A — redraw it 5 times, 8 min each, exaggerating shadow mass',
+          '20 min: both hands clasped or overlapping — one combined shadow shape, value only',
+          'No mood lab this week — hand value volume instead',
         ],
       },
     ],
     stopRule:
-      'When to stop hands: 7 min each in Session A, 8 min each in Session B repeats. Emotion page: 25–30 min minimum.',
+      'When to stop hands: 7 min each in Session A, 8 min each in Session B repeats. No mood lab this week.',
   },
   {
     id: 'week-10',
@@ -349,14 +352,14 @@ export const phase2Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Second master block-in OR deepen first + emotion close',
+        title: 'Second master block-in OR deepen first (full skill block)',
         steps: [
           '3-minute charcoal value scale warm-up',
           '10 min: 2-minute gesture warm-up — 5 poses from line-of-action.com',
-          'Continue Session A block-in OR start a second master with the same 15-min analysis + 52-min mass rule',
+          'Continue Session A block-in OR start a second master with the same 15-min analysis + mass rule — use remaining session time on masses only',
           'Focus on matching value relationships, not subject likeness. Do not add detail — mass only',
           '10 min: cover the reference and sketch the 3 value zones from memory — what stuck?',
-          'Final 25–30 min: charcoal emotion page — two value zones only (light mass and dark mass). Master copy energy stays analytical; this resets Session B to feeling',
+          'No mood lab this week — master mass volume instead',
         ],
       },
     ],
@@ -384,18 +387,19 @@ export const phase2Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Second master completion OR deepen first + emotion close',
+        title: 'Second master completion OR deepen first + value mood lab #5',
         steps: [
           '3-minute charcoal value scale warm-up',
           '10 min: 2-minute gestures — 5 poses',
-          '52 min: complete a second master copy from Week 10 block-in OR push the first copy one level further in edge control only',
+          '40 min: complete a second master copy from Week 10 block-in OR push the first copy one level further in edge control only',
           'No new subjects with faces yet — stay on your chosen master image',
-          'Final 25–30 min: charcoal emotion page — mood through value masses alone, no subject. No Loomis or portrait work this week',
+          'Final 25–30 min: value mood lab #5 of 6 — mood through value masses alone, no subject',
+          'Date and one feeling word. No Loomis or portrait work this week',
         ],
       },
     ],
     stopRule:
-      'When to stop: 52 min for copy work. If you catch yourself inventing new areas, return to mass relationships only. Emotion page: 25–30 min minimum.',
+      'When to stop: 40 min for copy work before the mood lab. If you catch yourself inventing new areas, return to mass relationships only. Mood lab #5: 25–30 min.',
   },
   {
     id: 'week-12',
@@ -418,18 +422,18 @@ export const phase2Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Loomis heads from memory + emotion close',
+        title: 'Loomis heads from memory (full skill block)',
         steps: [
           '3-minute charcoal value scale warm-up',
           '10 min: 2-minute gestures — 5 poses',
-          '3 Loomis heads from memory (no photo) — 12 min each, 3/4 view, value on shadow side only',
+          '5 Loomis heads from memory (no photo) — 12 min each, 3/4 view, value on shadow side only',
           'Note on each what proportion you forgot',
-          'Final 25–30 min: charcoal emotion page — no literal face, mood through portrait-like value pattern (light side / shadow side as feeling)',
+          'No mood lab this week — head-value volume instead',
         ],
       },
     ],
     stopRule:
-      'When to stop faces: 15 min each in Session A, 12 min each in Session B. Emotion page: 25–30 min minimum.',
+      'When to stop faces: 15 min each in Session A, 12 min each in Session B. No mood lab this week.',
     note: 'Week 12 connects object value (sphere, still life) to face value (portrait in Week 13). The Loomis construction from Phase 1 is the scaffold — value is the skin. Do not skip construction and jump to shading.',
   },
   {
@@ -453,24 +457,24 @@ export const phase2Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Figure drawing with value + emotion close',
+        title: 'Figure drawing with value (full skill block)',
         steps: [
           '3-minute charcoal value scale warm-up',
-          'line-of-action.com — set to 5 minutes, full figures, 5 poses',
+          'line-of-action.com — set to 5 minutes, full figures, 6 poses',
           'For each: gesture line first, mannequin structure second, shadow mass on one side third — no faces',
-          'Pick your best pose. Redraw it carefully in 20 min with full value range',
-          'Final 25–30 min: charcoal emotion page — mood through value masses alone, no subject required',
+          'Pick your best pose. Redraw it carefully in 25 min with full value range',
+          'No mood lab this week — figure value volume instead (lab returns Week 14 close)',
         ],
       },
     ],
     stopRule:
-      'When to stop portrait: 75 min exactly. An unfinished portrait with correct value masses beats a finished one built on outlines. Emotion page: 25–30 min minimum.',
+      'When to stop portrait: 75 min exactly. An unfinished portrait with correct value masses beats a finished one built on outlines. Session B: figure value fills the block — no mood lab this week.',
   },
   {
     id: 'week-14',
     weekNumber: 14,
     title: 'Phase 2 review + weak area sprint + close',
-    focus: 'Best work drawing · explicit buffer week if behind · emotion close for the phase',
+    focus: 'Best work drawing · explicit buffer week if behind · value mood lab close for the phase',
     badge: month6,
     sessions: [
       {
@@ -488,7 +492,7 @@ export const phase2Weeks: WeekDetail[] = [
       },
       {
         label: 'Session B — 75 min',
-        title: 'Phase 2 review + weak area sprint + emotion close',
+        title: 'Phase 2 review + weak area sprint + value mood lab #6',
         steps: [
           '3-minute charcoal value scale warm-up',
           'Spread all Phase 2 charcoal and pencil value work from Week 1',
@@ -496,13 +500,13 @@ export const phase2Weeks: WeekDetail[] = [
           'Write 1 value skill still weakest — be specific (e.g. "portrait shadows too flat", "still life highlights too grey")',
           '30 min rapid exercises on that one weakness only — if still weak after 30 min, schedule an extra buffer day before Phase 3',
           'Write 2 habits carrying into Phase 3: thumbnails, value scale warm-up, gesture before figures. These notes sit at the front of your Phase 3 sketchbook',
-          'Final 25–30 min: charcoal emotion page — close Phase 2 with feeling, not just analysis. Mood through tone only',
+          'Final 25–30 min: value mood lab #6 of 6 — close Phase 2 through tone only. Date and one feeling word',
         ],
       },
     ],
     stopRule:
-      'When to stop: Session A is 75 min whether buffer or best piece. Review writing happens before the emotion page, not instead of it. If you need a 15th week, repeat Week 14 Session A on your weakest category only — do not start Phase 3 with a flat sphere.',
+      'When to stop: Session A is 75 min whether buffer or best piece. Review writing happens before mood lab #6, not instead of it. If you need a 15th week, repeat Week 14 Session A on your weakest category only — do not start Phase 3 with a flat sphere.',
     milestone:
-      'Phase 2 complete when: your sphere reads 3D without outlines, you have pencil still life (Week 7), charcoal still life (Week 8), valued hand studies (Week 9), master value copies with written observations (Weeks 10–11), Loomis heads with value (Week 12), one charcoal portrait (Week 13), and a charcoal emotion page for every week. Week 14 is an explicit buffer if you are behind. If the sphere still looks flat, add a 15th week on spheres and shadow shapes before Phase 3.',
+      'Phase 2 complete when: your sphere reads 3D without outlines, you have pencil still life (Week 7), charcoal still life (Week 8), valued hand studies (Week 9), master value copies with written observations (Weeks 10–11), Loomis heads with value (Week 12), one charcoal portrait (Week 13), and all 6 value mood labs (Weeks 1, 4, 6, 8, 11, 14). Week 14 is an explicit buffer if you are behind. If the sphere still looks flat, add a 15th week on spheres and shadow shapes before Phase 3.',
   },
 ]
