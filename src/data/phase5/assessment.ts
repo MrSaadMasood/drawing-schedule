@@ -10,39 +10,39 @@ export type PhaseAssessment = {
 }
 
 export const phase5Assessment: PhaseAssessment = {
-  overallScore: 9.3,
-  followabilityScore: 8.5,
+  overallScore: 9.2,
+  followabilityScore: 9.2,
   verdict:
-    'Voice and body-of-work phase — series, patients, imagination, and Phase 1 expansions preserved; Session B mood dose-controlled.',
+    'Acrylic core for a full-time schedule — one patient painting, four series paintings, then a written choice of what to study next.',
   reason:
-    'Expanded to 24 weeks: six-painting series (Weeks 5–10); patient paintings A–D on dedicated weeks not parallel with series/imagination; imagination month Weeks 14–17 without problem studies; final painting Weeks 22–23 on different calendar days; Week 24 photo retrospective (10 best per phase). Acrylic mood typically 20–30 min; imagination and Phase 1 expansions keep fuller voice practice. Stacked “third emotion block if overtime” guilt removed.',
+    'Thirteen weeks. Session A is one deliverable. Session B finishes that job or runs a single 20-minute problem study. Patient painting is Weeks 4–5 only, before the series. Series is four paintings, Weeks 5–8, with Week 8 Session B as the missing-painting buffer. Tools share one week. One Phase 1 expansion. Living-artist research and the method study are the two sessions of Week 11. Final painting is Week 12 then Week 13, different calendar days. Week 13 Session B is the retrospective and the next path. Imagination month, extra patient paintings, and weekly abstract mood boards are outside this phase.',
   ratingItems: [
     {
-      score: '8.5/10',
-      title: 'Followability — still grit-heavy, less padded',
-      body: '24 weeks still requires commitment, but Session B no longer demands 30–45 min abstract emotion on top of every series/patient stack. Sticky-note dry-between protocol explicit. Floor-spread retrospective replaced with photos.',
-    },
-    {
-      score: '9.5/10',
-      title: 'Six-painting series',
-      body: 'Weeks 5–10 unchanged in intent. Problem studies from Week 6. Series can count as expressive work when Session B runs long.',
-    },
-    {
-      score: '9.5/10',
-      title: 'Patient paintings A–D',
-      body: 'A: Weeks 4–5. B: Weeks 8–9. C: Weeks 12–13. D: after imagination. Final: Weeks 22–23. No longer stacked on series Session A.',
-    },
-    {
-      score: '9.5/10',
-      title: 'Imagination month + emotion arc',
-      body: 'Four weeks no reference unchanged. Phase 1 expansions Weeks 18–19 kept. Voice practice concentrated where it earns its keep.',
+      score: '9.2/10',
+      title: 'Followability — one job per session',
+      body: 'No session asks for a patient painting, a series painting, and a mood board together. Sticky notes carry the patient painting and the final painting across days. Week 8 buffer replaces a missing series painting instead of adding a new theme.',
     },
     {
       score: '9.0/10',
-      title: 'Alignment with roadmap',
-      body: '24-week overview matches. Dose-controlled mood aligns with sparse Phase 1 anchors and Phase 2 value mood labs.',
+      title: 'Four-painting series',
+      body: 'Theme locks in Week 5 Session B. Paintings 2–4 each have their own Session A. Problem studies are Weeks 6–7 only, 20 minutes, one weakness.',
+    },
+    {
+      score: '9.0/10',
+      title: 'One patient painting',
+      body: 'Three sessions across Weeks 4–5 on one board. The Week 3 glaze study is a different board, so the method is learned before the painting you care about.',
+    },
+    {
+      score: '9.0/10',
+      title: 'Voice, then a next path',
+      body: 'Feeling is carried by the series intention and the single Phase 1 expansion. The retrospective assigns the next month — figures, places, stories, expressive series, or longer observation — instead of extending Phase 5.',
+    },
+    {
+      score: '9.2/10',
+      title: 'Alignment with the roadmap',
+      body: 'Foundations stay in Phases 1–4. Phase 5 teaches acrylic and a small body of work, at about 3 hours a week, then stops so the next study can match what the work actually showed.',
     },
   ],
   infoBox:
-    'Pedagogical 9.3 / Followability 8.5. Phase 5 remains the grit phase by design — series lock, imagination month, multi-session final — but Session B is no longer empty weekly filler. ~21 months total roadmap.',
+    'Pedagogical 9.2 / Followability 9.2. Phase 5 is the acrylic foundation and a launch point. The roadmap total is 79 weeks, about 18 months at 3–4 hours a week.',
 }

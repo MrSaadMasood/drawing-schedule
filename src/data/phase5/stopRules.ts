@@ -11,27 +11,27 @@ export const timingCells: TimingCell[] = [
   },
   {
     label: 'Series painting (Session A)',
-    value: '90 min per week. Start fresh each week of the series.',
+    value: '90 min. One fresh board. Weeks 5–8 only.',
   },
   {
     label: 'Series study (Session B)',
-    value: '20 min on one specific problem from last week\'s painting.',
+    value: '20 min, one problem, Weeks 6–7 only. Then write and stop.',
   },
   {
     label: 'Palette knife session',
-    value: '90 min. No brushes allowed.',
+    value: 'Week 9 Session A. No brushes. Reset if a brush touches the board.',
   },
   {
     label: 'Glazing layer',
-    value: 'One layer per session. Must be dry before next glaze.',
+    value: 'One layer at a time. The underpainting must be dry.',
   },
   {
-    label: 'Imagination painting',
-    value: '90 min. No reference — diagnostic, not a test.',
+    label: 'Patient painting',
+    value: 'One board, three sessions, Weeks 4–5. Stop with a sticky note.',
   },
   {
-    label: 'Acrylic mood (Session B)',
-    value: '20–30 min most weeks. Imagination/expansions keep fuller voice blocks. Stop when full, not when good.',
+    label: 'Final painting',
+    value: 'Week 12 starts it. Week 13 finishes it. Different calendar days.',
   },
 ]
 
@@ -48,23 +48,23 @@ export const drawingStopSteps: CopyStep[] = [
   },
   {
     title: 'The series stop rule',
-    body: 'During Weeks 5–9, stop each series painting at 90 minutes even if unfinished. The series compares week-to-week growth — finishing one piece perfectly defeats the purpose. Note one thing to fix in the 20-min Session B study, not on the same canvas unless the study requires it.',
+    body: 'During Weeks 5–8, stop each series painting at 90 minutes even if it is unfinished. The series compares one week with the next. Write the one fix for the 20-minute study in Weeks 6–7. Do not repair it on the same canvas unless that study is specifically about a passage you can test small.',
     variant: 'success',
   },
   {
     title: 'The overnight test — multi-session paintings',
-    body: 'For patient paintings (3+ sessions): stop mid-session while you still know what the next step is. Write it on a sticky note on the canvas back. Return at least 12 hours later. Fresh eyes on dry paint reveal what wet eyes could not. Week 20 final painting uses this deliberately.',
+    body: 'For the patient painting and the final painting: stop while you still know the next step. Write it on a sticky note on the back. Come back on another calendar day. Fresh eyes on dry paint see what wet paint hides. Week 12 Session B plans Week 13 and does not touch the final board.',
     variant: 'success',
   },
   {
     title: 'The body of work test — when a painting is done',
-    body: 'In Phase 5, a painting is done when it reads at arm\'s length and you can name what it is trying to say — even if the saying is abstract. It is done when the next mark would be for anxiety or for showing off technique. Unfinished series paintings and imagination diagnostics are allowed to stay unfinished.',
+    body: 'A painting is done when it reads at arm\'s length and you can say what it is trying to do. It is done when the next mark would be for anxiety or for showing off a tool. A series painting may stay unfinished. Say so on the back. The retrospective can name that as a choice, not a hidden failure.',
     variant: 'success',
   },
 ]
 
 export const stopWarnBox =
-  'For Phase 5 specifically: the series (Weeks 5–9) and imagination month (Weeks 13–16) are designed to produce uneven work. Uneven is correct. The goal is a body of work with emerging themes — not a portfolio of equally polished pieces. Session B acrylic mood is never graded. Imagination and Phase 1 expansion weeks are the non-negotiable voice blocks.'
+  'The four-painting series is supposed to be uneven. The last does not have to match the first in polish. What it has to do is show a change you can name. Week 10 is the one emotion expansion. Week 13 is the writing that decides what you practice next.'
 
 export const askButtons = [
   {

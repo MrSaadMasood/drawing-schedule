@@ -25,7 +25,7 @@ export function RoadmapPage() {
         eyebrow={roadmapMeta.eyebrow}
         title={roadmapMeta.title}
         subtitle={roadmapMeta.subtitle}
-        srTitle="Complete painting and drawing learning roadmap — 89 weeks (~21 months), 3 to 4 hours per week, pencil and charcoal to paint"
+        srTitle="Complete painting and drawing learning roadmap — 79 weeks (~18 months), 3 to 4 hours per week, pencil and charcoal to paint"
       />
 
       <TabBar
@@ -93,7 +93,7 @@ export function RoadmapPage() {
               <span>/10</span>
             </div>
             <div className="rating-overall-text">
-              <p className="rating-overall-label">Overall — ~21 months (89 weeks)</p>
+              <p className="rating-overall-label">Overall — ~18 months (79 weeks)</p>
               <p className="rating-overall-verdict">{roadmapAssessment.verdict}</p>
               <p className="rating-overall-reason">{roadmapAssessment.reason}</p>
             </div>

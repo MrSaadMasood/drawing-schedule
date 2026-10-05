@@ -68,7 +68,7 @@ export const supplySections: SupplySection[] = [
     ],
   },
   {
-    label: 'Phase 5 (month 14) · total Rs. 5,000–12,000',
+    label: 'Phase 5 (month 16) · total Rs. 5,000–12,000',
     items: [
       {
         tag: { label: 'Phase 5', background: '#EEEDFE', color: '#3C3489' },
@@ -80,7 +80,7 @@ export const supplySections: SupplySection[] = [
       {
         tag: { label: 'Phase 5', background: '#EEEDFE', color: '#3C3489' },
         name: 'Canvas boards (pack of 10)',
-        body: 'Canvas boards (not stretched canvas) are cheap and stackable. 20×25cm to start. Gesso-primed. Available at art shops in Lahore (Liberty, MM Alam area).',
+        body: 'Canvas boards (not stretched canvas) are cheap and stackable. 20×25cm. Gesso-primed. Buy two packs of 10 — one pack runs out when the four-painting series starts. Available at art shops in Lahore (Liberty, MM Alam area).',
         cost: 'Rs. 1,500–3,000',
         costColor: '#7F77DD',
       },

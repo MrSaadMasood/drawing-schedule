@@ -576,7 +576,7 @@ export const phase4Weeks: WeekDetail[] = [
           'First 30 min: lay out ALL watercolor from Week 1 — washes, grid, skies, landscapes, still lifes, two-light study, emotion pages',
           'Write 3 improvements (e.g. "blooms less scary", "shadows cooler under warm light", "stop before mud")',
           'Write 2 remaining weaknesses (e.g. "still lose whites", "overwork landscapes")',
-          'Write 3 habits for Phase 5: mix warmer than you think (acrylic dries darker), plan like watercolor but allow revision, keep wet-brush mood on designated Session Bs — not as empty weekly filler',
+          'Write 3 habits for Phase 5: mix lighter than the wet colour looks (acrylic dries darker), plan like watercolor but allow a deliberate revision, one deliverable per session — the series and the single emotion expansion carry the feeling',
           'Final 30 min: wet-brush mood close — unstructured brush work',
         ],
       },

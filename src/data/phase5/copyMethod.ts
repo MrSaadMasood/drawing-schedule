@@ -18,10 +18,10 @@ export const copyMethodSteps: CopyStep[] = [
     body: 'On paper or the canvas back: one process habit you will adopt, one you will reject, one that does not fit your temperament. Influence becomes conscious choice instead of unconscious mimicry. Without writing, you copy surface and forget process within a week.',
   },
   {
-    title: 'Apply one adopted habit to Session B emotion work the same week',
-    body: 'If you adopted "scrape back to white before re-layering," try it on the emotion page. Process studies must touch the emotional practice too — otherwise technique stays performance and never integrates with why you paint.',
+    title: 'Try the adopted habit once, on the study itself',
+    body: 'If you adopted "scrape back before re-layering," do that once on the method-study board. Do not open a second emotion painting the same week. The written adopt / reject / does-not-fit note is what keeps the influence from sliding into a surface copy.',
   },
 ]
 
 export const copyMethodInfoBox =
-  'Week 19 uses this method. Good artists to research for process (not copying): watch their studio tours and long-form interviews, not speed-painting videos. Look for painters who discuss starting, stopping, and failure openly. Avoid studying only Instagram finish reels — they hide the process this exercise is designed to extract.'
+  'Week 11 uses this method. Session A is research only. Session B is your subject painted with their sequence. Watch studio tours and long interviews, not speed-painting videos. Look for painters who talk about starting, stopping, and failure. Finish reels hide the process this exercise is built to extract.'

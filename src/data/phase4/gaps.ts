@@ -35,7 +35,7 @@ export const phase4Gaps: GapCard[] = [
       },
       {
         label: 'Emotion thread',
-        body: 'Session B free watercolor emotion pages continue from Phase 1–3. Week 10 Session B is emotion mandatory (landscape optional extension only). Date every page — Month 17 Phase 5 will revisit Phase 1 pages in acrylic.',
+        body: 'Session B free watercolor emotion pages continue from Phase 1–3. Week 10 Session B is emotion mandatory (landscape optional extension only). Date every page — Phase 5 Week 10 revisits one Phase 1 page in acrylic.',
       },
     ],
   },
@@ -68,8 +68,8 @@ export const phase4Gaps: GapCard[] = [
         body: 'Note mud sources and overwork habits. Weeks 19–20 are explicit buffers before Phase 5.',
       },
       {
-        label: 'Phase 5 Week 17–18',
-        body: 'Phase 1 emotion pages revisited as full acrylic paintings — your Phase 4 watercolor emotion pages are a parallel archive worth keeping.',
+        label: 'Phase 5 Week 10',
+        body: 'One Phase 1 emotion page becomes one acrylic painting. Keep the Phase 4 watercolor beside it if you painted a related mood.',
       },
     ],
   },

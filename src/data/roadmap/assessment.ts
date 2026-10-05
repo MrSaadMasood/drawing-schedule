@@ -1,10 +1,10 @@
 import type { RoadmapAssessment } from '../../types/guide'
 
 export const roadmapAssessment: RoadmapAssessment = {
-  overallScore: 9.4,
-  verdict: 'Complete fundamentals arc — Session B redesigned for craft densification and medium-tied voice',
+  overallScore: 9.2,
+  verdict: 'Fundamentals through a followable acrylic core, then a chosen next path',
   reason:
-    'Expanded from ~73 to 89 weeks (~21 months at 3–4 hrs/week). Overloaded weeks split across Phases 1–5. Buffer weeks explicit in every paint phase. Session A = one deliverable. Session B = skill densification most weeks; sparse Phase 1 expressive anchors; Phase 2 value mood labs (6); Phase 3 compositional mood + narrative/posture expression; Phase 4 wet-brush mood on designated weeks + translations; Phase 5 dose-controlled acrylic mood with full imagination/expansions. Pedagogical sequence unchanged: see → value → compose → plan in watercolor → voice in acrylic.',
+    '79 weeks (~18 months at 3–4 hrs/week). Session A is one deliverable. Session B densifies that skill on most weeks. Phase 1 keeps sparse expressive anchors. Phase 2 keeps six value mood labs. Phase 3 uses compositional mood plus narrative and posture. Phase 4 keeps wet-brush mood on designated weeks. Phase 5 is 13 weeks: handling, one patient painting, a four-painting series, one emotion expansion, then a retrospective that assigns the next study. Sequence unchanged: see → value → compose → plan in watercolor → acrylic core.',
   ratingCards: [
     {
       score: 9.4,
@@ -35,11 +35,11 @@ export const roadmapAssessment: RoadmapAssessment = {
       note: '20 weeks. Followability 9.0. Wet-brush mood designated weeks. Translations Weeks 12–13 kept. Buffers 19–20.',
     },
     {
-      score: 9.3,
+      score: 9.2,
       phaseLabel: 'Phase 5',
       phaseColor: '#3C3489',
-      name: 'Acrylic — your voice',
-      note: '24 weeks. Followability 8.5. Dose-controlled mood; imagination + expansions full. Still the grit phase — by design.',
+      name: 'Acrylic — core, then a next path',
+      note: '13 weeks. Followability 9.2. One patient painting, four-painting series, one expansion. Week 13 chooses what you study next.',
     },
   ],
 }

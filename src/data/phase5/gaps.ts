@@ -3,62 +3,59 @@ import type { GapCard } from '../../types/guide'
 export const phase5Gaps: GapCard[] = [
   {
     tag: { label: 'Why acrylic now', background: '#EEEDFE', color: '#3C3489' },
-    title: 'Forgiveness earned through watercolor',
-    body: 'Phase 4 taught planning because mistakes could not be fixed. Phase 5 adds the freedom to revise — but the planning habit stays. Acrylic dries fast, layers opaque, works thin like watercolor or thick like sculpture. You use revision deliberately, not lazily — cover a passage because the composition needs it, not because planning was skipped.',
+    title: 'Revision, after planning was learned',
+    body: 'Phase 4 taught planning because mistakes could not be covered. Phase 5 adds the freedom to revise. Acrylic dries fast, covers, and works thin or thick. Cover a passage because the picture needs it, not because the planning was skipped.',
     fixes: [
       {
         label: 'Weeks 1–2',
-        body: 'Learn both extremes: thin wash (watercolor-like) and thick impasto (palette knife). Your voice lives between them.',
+        body: 'Thin washes, then thick paint, then mixes from primaries. Write how much darker your brand dries. That note is the acrylic basic.',
       },
       {
-        label: 'Weeks 5–10',
-        body: 'Six-painting series — one per week from Week 5. Problem studies Session B from Week 6. Shift from "how do I paint this?" to "what do I want to say?"',
+        label: 'Weeks 5–8',
+        body: 'Four paintings, one theme. Problem studies in Weeks 6–7 are 20 minutes and one weakness. Week 8 closes the series or fills a missing painting.',
       },
       {
         label: 'Dry darker rule',
-        body: 'Acrylics dry 10–20% darker and slightly cooler than wet. Mix warmer and lighter than you think. Hair dryer on a test patch mid-session if values drift.',
+        body: 'Acrylics dry darker and slightly cooler than they look wet. Mix lighter than you think. Dry a test patch with a hair dryer when a large area starts drifting.',
       },
     ],
   },
   {
     tag: { label: 'From Phase 4', background: '#FAEEDA', color: '#633806' },
     title: 'Watercolor habits in opaque paint',
-    body: 'Thumbnails, value thinking, and color temperature notes transfer directly. Underpainting in ultramarine + white (Week 4) is the acrylic version of Phase 4\'s light-to-dark planning — establish value structure first, colour in glazes after. Session B emotion pages continue — now with full opacity and texture available.',
+    body: 'Thumbnails, value, and color temperature carry over. Week 3’s ultramarine-and-white underpainting is the acrylic version of painting light to dark: structure first, colour after the layer is dry.',
     fixes: [
       {
-        label: 'Every Session A (subjects)',
-        body: '3 thumbnails on canvas board or paper, then paint. Value plan before colour — same ritual as Phase 4 Week 7 onward.',
+        label: 'Every subject session',
+        body: '3 thumbnails, then paint. Value before colour — the same order as the later watercolor weeks.',
       },
       {
-        label: 'Weeks 18–19',
-        body: 'Phase 1 pencil emotion pages → full acrylic expansions (one per week). Optional: compare to Phase 4 watercolor versions from Weeks 12–13.',
+        label: 'Week 10',
+        body: 'One Phase 1 emotion page becomes one acrylic painting. Compare it with the Phase 4 watercolor of a related mood if that sheet exists. Do not translate a second page inside this phase.',
       },
     ],
   },
   {
     tag: { label: 'Patience practice', background: '#EAF3DE', color: '#27500A' },
-    title: 'One painting per month — three or more sessions',
-    body: 'At least one painting each month spans 3+ separate sessions on dedicated weeks — not stacked on series or imagination heavy weeks. Patient A–D plus the final painting (Weeks 22–23) use sticky-note next steps between calendar sessions.',
+    title: 'One painting across separate days',
+    body: 'One patient painting, three sessions, Weeks 4–5. The final painting uses the same rule on Weeks 12 and 13. Sticky notes say what happens next. A new patient painting is something you can choose after the retrospective, not a quota for this phase.',
     fixes: [
-      { label: 'Patient A', body: 'Weeks 4–5 — underpaint/glaze week starts, completes across 3 sessions.' },
-      { label: 'Patient B', body: 'Weeks 8–9 — dedicated sessions after series painting 3.' },
-      { label: 'Patient C', body: 'Weeks 12–13 — texture month, standalone from tool experiments.' },
-      { label: 'Patient D', body: 'Weeks 17–18 — after imagination month.' },
-      { label: 'Final', body: 'Weeks 22–23 — different calendar days. Week 24 retrospective only.' },
+      { label: 'Patient painting', body: 'Week 4 sessions 1–2. Week 5 Session A finishes it. Series Painting 1 is Week 5 Session B, on a different board.' },
+      { label: 'Final', body: 'Week 12 Session A starts it. Week 12 Session B does not touch it. Week 13 Session A finishes it on a later calendar day.' },
     ],
   },
   {
     tag: { label: 'After Phase 5', background: '#F1EFE8', color: '#444441' },
-    title: 'The roadmap retrospective — where Phase 6 begins',
-    body: 'Week 24 Session B uses photos of your 10 best pieces per phase plus written answers — not a full floor spread. Recurring themes you did not plan, marks that are yours alone, subjects you keep returning to — those answers define what you paint next. There is no Phase 6 in this roadmap; the retrospective is the launch point for your own curriculum.',
+    title: 'The retrospective chooses the next study',
+    body: 'Week 13 Session B is the end of this roadmap. There is no Phase 6 written here. The writing names the themes you already repeat and the skill that is actually weak, then picks one path for the next month.',
     fixes: [
       {
-        label: 'Week 24',
-        body: 'Write: 3 recurring themes, 2 marks or colours that appear unbidden, 1 thing you still avoid painting. Photograph 10 best works per phase from your archive.',
+        label: 'Week 13',
+        body: 'Choose one: figures and portraits; places and perspective; stories and illustration; an expressive series; or longer observational paintings. Write the first month in three sentences.',
       },
       {
         label: 'Keep everything',
-        body: 'Phase 1 sketchbooks through Phase 5 canvas boards — dated, stored. Phone photos are enough for the retrospective if space is tight.',
+        body: 'Phase 1 sketchbooks through these canvas boards stay dated. Phone photos are enough for the retrospective if the boards cannot all be out at once.',
       },
     ],
   },
