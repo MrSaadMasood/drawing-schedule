@@ -5,6 +5,7 @@
   "type": "module",
   "homepage": "https://MrSaadMasood.github.io/drawing-schedule/",
   "scripts": {
+    "predeploy": "npm run build",
     "dev": "vite",
     "build": "tsc -b && vite build",
     "deploy": "gh-pages -d dist",
