@@ -5,13 +5,13 @@ export const phase2Meta: PhaseGuideMeta = {
   eyebrow: 'Phase 2 · Months 4–7',
   title: 'The complete week-by-week value and shadow plan',
   subtitle:
-    'Fourteen weeks of paired sessions — one value skill per Session A, denser craft in Session B, with six scheduled charcoal value mood labs (Weeks 1, 4, 6, 8, 11, 14). Still life, master copy, and portrait each get their own week instead of stacking.',
+    'Twelve weeks — value, edges, and form. If Phase 1 left a long weakness list, Week 2 takes only two items. Foreshortened hands, turning heads, and gesture have later weeks. Composition and full scenes wait for Phase 3.',
   srTitle:
-    'Phase 2 complete week-by-week value and shadow schedule with charcoal, figure anatomy, master value copies and portrait studies',
+    'Phase 2 complete week-by-week value and shadow schedule with charcoal, scoped construction practice, master value copies and a portrait study',
   weeksIntro:
-    'Weeks 1–14 each have 2 sessions of 75 min. Session A = one primary value deliverable. Session B = figure/face/skill volume when listed. Value mood labs (25–30 min, mood through light/dark masses only) on Weeks 1, 4, 6, 8, 11, and 14 only — not every week. Every session opens with a 3-minute 10-step value scale warm-up. Charcoal setup: work vertical or wax paper under hand — fixative optional. Week 14 includes review and optional buffer before Phase 3.',
+    'Weeks 1–12 each have 2 sessions of 75 min. Session A is one value or construction deliverable. Session B finishes that job or diagnoses it — not a second subject. Value scales open every session in Weeks 1–4, then once a week. Value mood labs (25 min) on Weeks 1, 5, and 12 only. Week 2 is cylinder rotation and wedge hands/feet only, even if the Phase 1 review named more. Week 8 applies value to foreshortened hands and feet. Week 11 turns the head so features stay on the face plane. Week 12 is the portrait and the list of what Phase 3 will take. Charcoal: work vertical or put wax paper under the hand. Tap any week to expand.',
   gapsIntro:
-    'These topics explain how Phase 2 connects to Phase 1 and what comes next. Weeks 7–13 were expanded so still life, hands, master copy, Loomis, and portrait never share one overloaded week.',
+    'These topics say how Phase 2 uses Phase 1, which weaknesses belong here, and which wait. Do not sprint the whole review list in Week 2.',
   copySectionTitle: 'How to copy a master painting in value — the correct method',
   assessmentTitle: 'Phase 2 complete guide — quality assessment',
   tabs: [

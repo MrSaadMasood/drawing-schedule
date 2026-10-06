@@ -44,5 +44,5 @@ export const phase5Assessment: PhaseAssessment = {
     },
   ],
   infoBox:
-    'Pedagogical 9.2 / Followability 9.2. Phase 5 is the acrylic foundation and a launch point. The roadmap total is 79 weeks, about 18 months at 3–4 hours a week.',
+    'Pedagogical 9.2 / Followability 9.2. Phase 5 is the acrylic foundation and a launch point. The roadmap total is 77 weeks, about 18 months at 3–4 hours a week.',
 }

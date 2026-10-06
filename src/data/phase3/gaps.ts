@@ -11,35 +11,35 @@ export const phase3Gaps: GapCard[] = [
         body: 'Thumbnails first: 3 minimum, 5×4 cm, flat value masses or simple shapes. Pick the strongest before developing large.',
       },
       {
-        label: 'Weeks 11–12',
-        body: 'Full drawings use Phase 2 value range on compositional subjects — still life, figure in environment, or landscape.',
+        label: 'Every developed drawing',
+        body: 'Use 3–5 flat value masses before rendering. The thumbnail decides the focal point; Phase 2 value makes it read.',
       },
       {
         label: 'Carries forward',
-        body: 'Squint test, photograph-and-flip, and charcoal emotion pages continue every week. Value scale warm-up on Week 11 Session A showpiece drawing.',
+        body: 'Squint test and photograph-and-flip continue. Mood labs are only Weeks 1, 6, and 13. Narrative and posture carry the other expression work.',
       },
     ],
   },
   {
     tag: { label: 'Perspective', background: '#FCEBEB', color: '#791F1F' },
-    title: 'One-point review, two-point new — then stop measuring',
-    body: 'Phase 1 Week 7 introduced one-point perspective as a spatial exercise. Phase 3 Weeks 3–4 apply it to full compositional scenes, then add two-point in the same block. After Week 4, perspective is a compositional tool used intuitively — not a weekly drill. One-point and two-point are all you need for 95% of everything you will paint.',
+    title: 'Perspective has to survive contact with a real scene',
+    body: 'One-point and two-point diagrams are not the goal. The goal is a room, street, table, cup, and figure that share one space. Weeks 3–5 teach the systems, ellipses, and proportional depth. Weeks 11–12 apply them to figures and a complex scene. Week 14 corrects that evidence.',
     fixes: [
       {
         label: 'Week 3',
-        body: 'One-point review: corridor, room interior, or street — compositional ambition, not box drills.',
+        body: 'Observed one-point room or corridor. Furniture, a doorway, and one cylinder or ellipse belong to the same horizon.',
       },
       {
         label: 'Week 4',
-        body: 'Two-point new: two vanishing points on horizon, boxes from corner edge, building exterior or street corner.',
+        body: 'Two-point street corner or building. A second session changes the eye level instead of drawing another generic box page.',
       },
       {
-        label: 'Week 5 onward',
-        body: 'Use perspective only when the scene needs it. Landscape and narrative work often need no vanishing points at all.',
+        label: 'Weeks 5, 11–12, 14',
+        body: 'Week 5: ordinary objects, ellipses, repeated scale at depth. Week 11: figures at different distances. Week 12: foreground, middle ground, background. Week 14: diagnose and redraw the spatial failure.',
       },
       {
         label: 'Resource',
-        body: 'Ctrl+Paint.com perspective lessons. Scott Robertson "How to Draw" for deep reference — use reactively, not as a parallel course.',
+        body: 'Ctrl+Paint perspective lessons. Scott Robertson "How to Draw" for ellipses and measuring depth — use the relevant page only, not as a parallel course.',
       },
     ],
   },
@@ -49,20 +49,16 @@ export const phase3Gaps: GapCard[] = [
     body: 'Phase 3 introduces storytelling without words — 3-panel sequences, single images that imply before/after, and figures whose posture alone communicates emotion and relationship. This is the skill that connects technical drawing to the emotional practice running since Phase 1.',
     fixes: [
       {
-        label: 'Weeks 5–6',
-        body: 'Week 5 Session B opens with a 20-min Hopper/Wyeth shape trace (roadmap master study), then develops one landscape with full value. Week 6 Session A is the full composition copy with eye-path analysis.',
+        label: 'Weeks 8–9',
+        body: 'Same event in four framings, then a three-panel sequence and a single image that implies before and after. Story replaces a separate abstract page.',
       },
       {
-        label: 'Weeks 1–2, 7–8',
-        body: 'Session B narrative panels — same moment, different framing; single image that answers "what happened before?" and "what happens next?" Each closes with a 15-min compositional emotion page.',
+        label: 'Weeks 10–11',
+        body: 'Five emotional states without a face, then two figures interacting inside a simple environment. Distance, scale, posture, and setting all communicate.',
       },
       {
-        label: 'Weeks 9–10',
-        body: 'Character posture: 5 emotional states without visible face. Two figures interacting — relationship through body language alone. Week 10 Session B closes with emotion after interaction work.',
-      },
-      {
-        label: 'Weeks 11–12',
-        body: 'Master composition copy and phase review both close with emotion pages — analysis without feeling is incomplete.',
+        label: 'Weeks 13 and 15',
+        body: 'One composition showpiece, then one narrative or posture showpiece. These are the peaks; Week 14 corrects space and Week 16 buffers the weakest category.',
       },
       {
         label: 'Phase 4–5',
@@ -76,8 +72,8 @@ export const phase3Gaps: GapCard[] = [
     body: 'Watercolor in Phase 4 demands planning — you cannot paint light over dark. The thumbnail habit and compositional thinking from Phase 3 are the planning layer. Phase 4 Week 7 onward requires 3 thumbnails before every painting. Phase 3 is the last purely dry-media phase; everything learned here is drawn on paper first, then painted later.',
     fixes: [
       {
-        label: 'Week 12 review',
-        body: 'Identify 1 compositional weakness for Phase 4. Week 16 buffer is explicit — use it if thumbnails still feel optional.',
+        label: 'Week 16 review',
+        body: 'Identify one compositional or spatial weakness for later study. Use the buffer if thumbnails still feel optional or a scene still has no coherent depth.',
       },
       {
         label: 'Phase 4',

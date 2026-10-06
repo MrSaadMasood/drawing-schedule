@@ -5,13 +5,13 @@ export const phase3Meta: PhaseGuideMeta = {
   eyebrow: 'Phase 3 · Months 7–11',
   title: 'The complete week-by-week composition and storytelling plan',
   subtitle:
-    'Sixteen weeks — thumbnails, perspective, landscape, narrative, posture, and showpiece each get breathing room. One primary deliverable per Session A; compositional mood labs on designated weeks; narrative and posture weeks carry expression through craft.',
+    'Sixteen weeks — thumbnails, perspective in real scenes, objects and figures at depth, landscape, narrative, posture, and showpieces. One primary deliverable per session; expression comes through composition and story, with only three abstract mood labs.',
   srTitle:
-    'Phase 3 complete week-by-week composition and storytelling schedule with thumbnails, perspective, narrative panels and character posture',
+    'Phase 3 complete week-by-week composition and storytelling schedule with thumbnails, practical scene perspective, narrative panels and character posture',
   weeksIntro:
-    'Weeks 1–16 each have 2 sessions of 75 min (Week 13 showpiece Session A may run 90 min). Session A = one compositional or narrative deliverable. Session B = skill densification most weeks. Compositional mood labs (~25–30 min) on Weeks 1–2, 5–7, and 13 (optional short lab Week 14). Narrative, posture, and interaction weeks express feeling through body language and framing — no duplicate abstract pages. Max 12 thumbnails per 30 min. Weeks 12 and 16 are explicit buffer weeks. Fresh-eyes review replaces showing work to someone else. Tap any week to expand.',
+    'Weeks 1–16 each have 2 sessions of 75 min (Week 13 Session A may run 90 min). Session A = one composition or scene deliverable. Session B corrects or transfers that skill — not a second unrelated project. Weeks 3–5 build one-point, two-point, then ordinary objects, ellipses, and proportional depth. Week 11 puts two figures at believable distances. Week 12 builds one complex scene; Week 14 corrects it or redraws it from a different eye level. Mood labs are Weeks 1, 6, and 13 only. Narrative and posture carry the other expression work. Max 12 thumbnails per 30 min. Week 16 is the explicit buffer. Tap any week to expand.',
   gapsIntro:
-    'These topics explain how Phase 3 builds on Phases 1–2 and prepares you for watercolor in Phase 4. Hopper study, landscape development, and master copy now sit on separate weeks.',
+    'These topics explain how Phase 3 turns the Phase 2 carry list into scenes, and how thumbnails and value plans prepare you for watercolor. One master study is enough; the saved week goes to practical spatial construction.',
   copySectionTitle: 'How to copy a master composition — the correct method',
   assessmentTitle: 'Phase 3 complete guide — quality assessment',
   tabs: [

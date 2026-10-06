@@ -7,11 +7,11 @@ export const timingCells: TimingCell[] = [
   },
   {
     label: 'Thumbnail marathon',
-    value: '30 min for 16–20 boxes. Then pick one — no revisiting.',
+    value: '30 min or 12 boxes, whichever comes first. Then pick one.',
   },
   {
     label: 'Perspective study',
-    value: '75 min max. Learn the principle, then stop.',
+    value: '75 min max. Diagnose one spatial error; do not restart the whole scene.',
   },
   {
     label: 'Narrative panel',
@@ -19,7 +19,7 @@ export const timingCells: TimingCell[] = [
   },
   {
     label: 'Full composition drawing',
-    value: '90 min. Even if rendering feels unfinished.',
+    value: '75 min normally. Week 13 may run 90 min including thumbnails.',
   },
   {
     label: 'Master composition copy',
@@ -27,18 +27,18 @@ export const timingCells: TimingCell[] = [
   },
   {
     label: 'Compositional mood lab (Session B)',
-    value: '25–30 min on designated weeks — notice where the eye rests.',
+    value: '25 min on Weeks 1, 6, and 13 only — notice where the eye rests.',
   },
   {
     label: 'Full session',
-    value: '~90 min. Composition decisions fade after that.',
+    value: '75 min normally. Stop before correction becomes rendering.',
   },
 ]
 
 export const drawingStopSteps: CopyStep[] = [
   {
     title: 'The thumbnail contract',
-    body: 'You chose a thumbnail before starting. You are not allowed to change the composition mid-drawing because the large version "is not working." If it is not working, the thumbnail was wrong — stop, do 3 new thumbnails, start fresh. Changing composition mid-drawing wastes 60 minutes learning nothing about planning.',
+    body: 'You chose a thumbnail before starting. Do not quietly redesign the composition halfway through. If it fails large, finish it as a diagnostic or stop and make 3 correction thumbnails for the next session. Write what the thumbnail failed to predict. That preserves the planning lesson without forcing a same-day restart.',
     variant: 'success',
   },
   {
@@ -53,18 +53,18 @@ export const drawingStopSteps: CopyStep[] = [
   },
   {
     title: 'The narrative test (Session B)',
-    body: 'For panel work: show the drawing to someone without explanation. Can they sense a before and after? For posture work: cover the face — does the body still communicate the emotion? If not, the posture is generic. Push the lean, weight, or gesture further.',
+    body: 'For panel work: show the drawing to someone without explanation if a willing viewer is available. Otherwise put it away overnight and describe only what the image proves the next day. For posture work, cover the face — does the body still communicate? If not, push lean, weight, or gesture.',
     variant: 'success',
   },
   {
-    title: 'Put the ruler away after Week 4',
-    body: 'If you are still constructing perspective lines on every landscape after Week 4, stop. Sketch the space intuitively using what you learned. Over-constructed perspective makes compositions stiff. Phase 3 perspective is a tool for when you need convincing architecture — not a requirement for every drawing.',
+    title: 'Use the ruler only to diagnose after Week 5',
+    body: 'Weeks 3–5 may use a ruler for the perspective lesson. After that, draw the scene lightly by eye first. If space fails, extend two or three important edges to check the horizon and vanishing direction. Correct those lines; do not cover every narrative or landscape page in a grid.',
     variant: 'success',
   },
 ]
 
 export const stopWarnBox =
-  'For Phase 3 specifically: a composition that is 70% planned and 30% rendered beats one that is 10% planned and 90% rendered. If you catch yourself rendering details before the big shapes read clearly, stop detailing and step back to thumbnails. Phase 4 watercolor will punish this habit severely — fix it now in pencil.'
+  'A composition that is 70% planned and 30% rendered beats one that is 10% planned and 90% rendered. A perspective scene also does not need every line constructed. Plan the large shapes, establish the horizon and depth directions, then diagnose one spatial error from the finished attempt. Phase 4 will punish both weak planning and overworked correction.'
 
 export const askButtons = [
   {

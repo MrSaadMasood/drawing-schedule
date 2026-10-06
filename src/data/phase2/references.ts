@@ -12,15 +12,15 @@ export const referenceSections: ReferenceSection[] = [
       {
         tag: { label: 'Value · Form', background: '#E6F1FB', color: '#0C447C' },
         title: 'Proko — Figure and portrait value',
-        body: 'Watch the Portrait Drawing playlist before Weeks 10–11. The shading and lighting videos cover exactly the one-side light approach this schedule uses. Figure Drawing Fundamentals for gesture warm-ups in Session B.',
+        body: 'Watch the shading and Loomis head videos before Week 11. Figure Drawing Fundamentals is enough for the 10-minute gesture opens on Weeks 5, 8, and 11.',
         fixes: [
           {
-            label: 'Before Week 10',
-            body: 'Portrait Drawing: "How to Shade a Drawing" and Loomis head videos — pairs with face value intro.',
+            label: 'Before Week 11',
+            body: 'Portrait Drawing: "How to Shade a Drawing" and the Loomis head videos — features on a turning plane, then one-side light.',
           },
           {
-            label: 'Every week',
-            body: 'Figure Drawing Fundamentals gesture videos for Session B warm-ups.',
+            label: 'Weeks 5, 8, 11',
+            body: 'One short gesture video if the 10-minute warm-up still freezes you. Then draw. Do not watch through the whole warm-up.',
           },
           { label: 'Link', body: 'youtube.com/@ProkoTV' },
         ],
@@ -31,8 +31,8 @@ export const referenceSections: ReferenceSection[] = [
         body: 'Free value section at ctrlpaint.com/library. Short videos on value scale, form shading, and edges. Watch the entire Value section during Weeks 1–2 — each video is 5–10 min. The best bridge between Phase 1 line work and Phase 2 tonal work.',
         fixes: [
           {
-            label: 'Week 1–2',
-            body: 'Watch "Value" section videos 1–6. Draw along with each — pause and shade what you just saw.',
+            label: 'Week 1',
+            body: 'Watch the Value section videos 1–6. Draw along with each — pause and shade what you just saw. Week 2 is construction, not more videos.',
           },
           { label: 'Link', body: 'ctrlpaint.com/library' },
         ],
@@ -40,11 +40,11 @@ export const referenceSections: ReferenceSection[] = [
       {
         tag: { label: 'Charcoal · Process', background: '#F1EFE8', color: '#5F5E5A' },
         title: 'GnomoniC Art Tutorials — charcoal process',
-        body: 'Search "GnomoniC charcoal portrait" or "charcoal still life" — full real-time process from blank paper to finished tonal drawing. Watch one complete video before Week 7 still life session.',
+        body: 'Search "GnomoniC charcoal portrait" or "charcoal still life" — full real-time process from blank paper to finished tonal drawing. Watch one complete video before the Week 6 still life.',
         fixes: [
           {
-            label: 'Before Week 7',
-            body: 'One full charcoal still life or portrait process video — note when they lift highlights vs add darks.',
+            label: 'Before Week 6',
+            body: 'One full charcoal still life process video — note when they lift highlights versus add darks.',
           },
           { label: 'Link', body: 'youtube.com/@GnomoniCDrawingTutorials' },
         ],
@@ -78,7 +78,7 @@ export const referenceSections: ReferenceSection[] = [
         fixes: [
           {
             label: 'Setup',
-            body: '2-minute poses Weeks 3–6, 3-minute Week 6 figures, 5-minute Week 11 figures.',
+            body: '2-minute poses for the 10-minute opens on Weeks 5 and 8. 2- or 5-minute poses on Week 11. Then stop and start the week’s drawing.',
           },
         ],
       },
@@ -88,8 +88,8 @@ export const referenceSections: ReferenceSection[] = [
         body: 'Free portrait photos with dramatic lighting for Week 11. Search "portrait side light" or "Rembrandt lighting portrait". Desaturate before drawing.',
         fixes: [
           {
-            label: 'Week 11',
-            body: 'Choose photos with clear shadow on one side of the face — avoid flat front lighting.',
+            label: 'Week 12',
+            body: 'Choose the photo in Week 11 Session B. Clear shadow on one side of the face — avoid flat front lighting.',
           },
         ],
       },

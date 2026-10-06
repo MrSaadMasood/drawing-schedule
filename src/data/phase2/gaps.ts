@@ -3,74 +3,70 @@ import type { GapCard } from '../../types/guide'
 export const phase2Gaps: GapCard[] = [
   {
     tag: {
+      label: 'If the review list is long',
+      background: '#FCEBEB',
+      color: '#791F1F',
+    },
+    title: 'Do not practise every Phase 1 weakness in Week 2',
+    body: 'A specific list — foreshortened fingers, cylinder hiding, wedge hands and feet, stiff features on a turning head, shaky gesture, composition, and scenes in perspective — is useful. It is not a Week 2 assignment. Phase 2 can only hold the weaknesses that are forms and light. Everything else has a later week or a later phase.',
+    fixes: [
+      {
+        label: 'Week 2 only',
+        body: 'Cylinder rotation (what stays visible, what hides) and hands/feet as wedges at several angles. No faces, no full scenes, no composition drills.',
+      },
+      {
+        label: 'Later in Phase 2',
+        body: 'Week 8: those wedges get value, including two or three foreshortened hands. Week 11: the head turns and the features stay on the face plane. Weeks 5, 8, 11: ten minutes of gesture with a shadow side — not a separate gesture course.',
+      },
+      {
+        label: 'Phase 3, not now',
+        body: 'Composition you are unsure about. Perspective used inside a real room or street. Complex scenes. Figures that belong in that space. Write them on the Week 12 carry list. Do not add extra Phase 2 weeks for them.',
+      },
+    ],
+  },
+  {
+    tag: {
       label: 'From Phase 1',
       background: '#F1EFE8',
       color: '#444441',
     },
-    title: 'Line becomes value — the phase transition',
-    body: 'Phase 1 built observation, proportion, and line quality. Phase 2 removes the outline as the primary tool. The central idea: there are no lines in nature, only value changes. Every object you drew in outline in Phase 1 must now be redrawn as shadow shapes and tonal masses. Your Phase 1 sketchbooks remain essential reference — flip back to see how the same subject reads differently without outlines.',
-    fixes: [
-      {
-        label: 'Week 1–2',
-        body: 'Value scale calibration in both pencil and charcoal. Address the 2 weak areas identified in Phase 1 Week 12 review before moving to shadow shapes.',
-      },
-      {
-        label: 'Week 3 onward',
-        body: 'No outline-first drawings. Squint to see masses. If you catch yourself drawing edges before shadows, stop and restart as shadow shapes only.',
-      },
-      {
-        label: 'Carries forward',
-        body: 'Thumbnails (3 minimum), gesture warm-ups, photograph-and-flip critique, and emotion pages all continue from Phase 1.',
-      },
-    ],
-  },
-  {
-    tag: {
-      label: 'Anatomy',
-      background: '#FCEBEB',
-      color: '#791F1F',
-    },
-    title: 'Figures and faces with light and shadow',
-    body: 'Phase 1 established figure structure as geometry — mannequin forms, Loomis heads, hand boxes. Phase 2 adds value to that structure. Gesture warm-ups (2–5 min poses) open most Session B blocks. Figures and faces receive one-side lighting: shadow defines form instead of contour lines.',
-    fixes: [
-      {
-        label: 'Every week',
-        body: 'Session B includes charcoal emotion drawing — minimum 15–30 min even when figure, hand, or master-copy work fills the session. Weeks 8–12 previously risked skipping emotion entirely; now every week closes with a feeling page.',
-      },
-      {
-        label: 'Weeks 6, 8, 11',
-        body: 'Dedicated figure or hand sessions with value applied — mannequin figures as cylinders with shadow side, hands with box structure plus tonal mass.',
-      },
-      {
-        label: 'Weeks 10–11',
-        body: 'Loomis head construction plus one-side portrait lighting — the bridge between object value and face value.',
-      },
-      {
-        label: 'Resource',
-        body: 'Proko Figure Drawing Fundamentals (gesture, structure). Proko Portrait Drawing for Loomis + lighting. Line-of-action.com for timed poses.',
-      },
-    ],
-  },
-  {
-    tag: {
-      label: 'New medium',
-      background: '#E6F1FB',
-      color: '#0C447C',
-    },
-    title: 'Charcoal setup and habits',
-    body: 'Charcoal is messy, forgiving, and perfect for emotional mark-making. Vine charcoal for light lay-in, compressed for deep darks, blending stumps for smooth transitions, kneaded eraser for lifting highlights. Use charcoal paper (A3 pad) — regular sketchbook paper will not hold charcoal properly.',
+    title: 'Line becomes value',
+    body: 'Phase 1 built observation, proportion, and line. Phase 2 removes the outline as the main tool. There are no lines in nature — only value changes. The same mug, hand, and head now have to read as light shapes and dark shapes.',
     fixes: [
       {
         label: 'Week 1',
-        body: 'Introduce materials: vine vs compressed charcoal, paper tilt to reduce smudging, fixative optional (work vertically if you skip fixative).',
+        body: 'Value scales in pencil and charcoal. Learn the materials. No weakness sprint.',
       },
       {
-        label: 'Every session',
-        body: 'Value scale warm-up in charcoal on Session B weeks. Keep a damp cloth or paper towel for fingers.',
+        label: 'Week 3 onward',
+        body: 'No outline-first drawings. Squint for masses. If a dark line appears around a form, cover it with the shadow or start the sheet again.',
       },
       {
-        label: 'Common mistake',
-        body: 'Over-blending until everything turns grey mud. Leave the paper white for highlights — the brightest light is untouched paper or lifted charcoal, never drawn white.',
+        label: 'Every developed drawing',
+        body: 'Three-value thumbnail, photograph at the midpoint, name the largest error (proportion, value, edge, construction), correct only that.',
+      },
+    ],
+  },
+  {
+    tag: {
+      label: 'Anatomy in this phase',
+      background: '#E6F1FB',
+      color: '#0C447C',
+    },
+    title: 'Value on the structures you already have — not a full figure course',
+    body: 'Phase 1 gave mannequins, Loomis heads, and box-and-cylinder hands. Phase 2 adds light to those. It does not teach a complete skeleton or a finished figure. Gesture stays short and gets a shadow side.',
+    fixes: [
+      {
+        label: 'Weeks 5, 8, 11',
+        body: 'Ten-minute gesture open: 2-minute poses, lean and weight, then a simple shadow on the torso. Then the week’s real job starts.',
+      },
+      {
+        label: 'Week 8',
+        body: 'Hands and feet with a shadow side. Two foreshortened hands. Four foot wedges. That is the foreshortening work for this phase.',
+      },
+      {
+        label: 'Week 11',
+        body: 'Heads at three-quarter, profile, and tilt. Features after the face plane turns. One-side light. Likeness waits for Week 12 and will still be uneven.',
       },
     ],
   },
@@ -80,20 +76,16 @@ export const phase2Gaps: GapCard[] = [
       background: '#EAF3DE',
       color: '#27500A',
     },
-    title: 'What Phase 2 unlocks',
-    body: 'Value mastery is the prerequisite for all painting. Phase 3 adds composition and storytelling on top of this tonal foundation. Two-point perspective, narrative panels, and character posture all assume you can make forms read through light and dark alone.',
+    title: 'What this phase is allowed to leave open',
+    body: 'If a drawing looks solid from across the room, Phase 2 did its job even when the scene is simple. Arranging a whole picture, and making perspective feel like a place rather than a box drill, is the next phase.',
     fixes: [
       {
         label: 'Phase 3',
-        body: 'Thumbnails become mandatory before every drawing. Composition and perspective deepen — but value work from Phase 2 runs underneath everything.',
+        body: 'Thumbnails become mandatory. One-point and two-point go into rooms and streets. Narrative and posture carry feeling. That is where composition uncertainty belongs.',
       },
       {
-        label: 'Phase 4–5',
-        body: 'Watercolor and acrylic both depend on value planning. The sphere exercise and still life value studies from this phase are the direct ancestors of every painting you will make later.',
-      },
-      {
-        label: 'Week 12 review',
-        body: 'Identify your weakest value skill before Phase 3. Common gaps: flat spheres, muddy charcoal, portraits that rely on outlines sneaking back in.',
+        label: 'Week 12 Session B',
+        body: 'Write the carry list. If you still cannot say what composition is, write that sentence. Phase 3 Week 1 is the thumbnail drill that makes the idea concrete.',
       },
     ],
   },

@@ -10,39 +10,39 @@ export type PhaseAssessment = {
 }
 
 export const phase3Assessment: PhaseAssessment = {
-  overallScore: 9.4,
-  followabilityScore: 9.0,
+  overallScore: 9.3,
+  followabilityScore: 9.2,
   verdict:
-    'Composition and narrative curriculum with breathing room — expression via story/posture plus scheduled compositional mood labs.',
+    'Composition and narrative curriculum with practical spatial transfer — objects, figures, and complex scenes now use perspective rather than only demonstrating it.',
   reason:
-    'Expanded to 16 weeks: thumbnail drill Week 1 alone; landscape thumbnails 10+10; Hopper trace Week 6, full copy Week 7; narrative split Weeks 8–9; showpiece and master copy on separate weeks; buffers Weeks 12 and 16. Max 12 thumbnails per 30 min. Session B abstract emotion reduced; narrative/posture weeks carry expression through craft; mood labs on Weeks 1–2, 5–7, 13.',
+    'Sixteen weeks. Weeks 1–2 establish thumbnails, focal point, and visual weight. Weeks 3–5 move from one-point and two-point scenes to ellipses, ordinary objects, and proportional depth. Week 6 compresses landscape repetition into one focused week. Week 7 keeps one master composition study. Weeks 8–10 teach framing, story, and posture. Week 11 places interacting figures at different depths. Week 12 builds a complex scene; Week 14 diagnoses and redraws it. Weeks 13 and 15 are composition and narrative peaks; Week 16 is buffer. Mood labs reduced to Weeks 1, 6, and 13.',
   ratingItems: [
     {
-      score: '9.0/10',
-      title: 'Followability — split peaks + clearer Session B jobs',
-      body: 'Perspective and narrative weeks no longer stack a second abstract emotion page on top of already expressive craft. Perspective buffer Week 12 is spatial practice. Softened: audience review step.',
+      score: '9.2/10',
+      title: 'Followability — one job per session',
+      body: 'No week asks for a developed scene plus an unrelated abstract page. Landscape volume is reduced. One master copy replaces two. Week 16 is the only general buffer; Week 14 is a specific scene correction.',
     },
     {
-      score: '9.5/10',
+      score: '9.4/10',
       title: 'Mandatory thumbnails',
-      body: 'Habit unchanged — introduced over two weeks instead of one overloaded Week 1.',
+      body: 'The habit is established over Weeks 1–2, then used before every developed composition. The Week 13 showpiece caps thumbnails at 8 in 20 minutes so the drawing fits the session.',
     },
     {
-      score: '9.5/10',
-      title: 'Perspective sequencing',
-      body: 'Weeks 3–4 unchanged in intent; Session B is a second spatial pass. Week 12 buffer optional refresh.',
-    },
-    {
-      score: '9.2/10',
-      title: 'Landscape + Hopper + expression arc',
-      body: 'Thumbnails → develop + trace → full copy preserved. Posture and narrative weeks are the high-ROI emotion training.',
+      score: '9.4/10',
+      title: 'Perspective transfer',
+      body: 'One-point and two-point lead into cups, boxes, repeated objects, ellipses, people at depth, and a complex scene. Week 14 corrects evidence from the scene instead of repeating generic box drills.',
     },
     {
       score: '9.2/10',
+      title: 'Composition + expression arc',
+      body: 'Landscape, one master study, framing, posture, interaction, and narrative showpieces remain. Story and body language do most of the expressive work; three mood labs are enough.',
+    },
+    {
+      score: '9.3/10',
       title: 'Alignment with roadmap',
-      body: '16-week overview and guide agree. Mood labs scheduled, not weekly filler. Phase 4 planning habit prepared in Week 15–16 review.',
+      body: 'The Phase 2 carry list now has explicit homes: composition in Weeks 1–2, scene perspective in Weeks 3–5 and 12–14, gesture/posture in Weeks 10–11. Phase 4 receives automatic thumbnails and value plans.',
     },
   ],
   infoBox:
-    'Pedagogical 9.4 / Followability 9.0. Week 16 buffer before Phase 4 paint. Thumbnails must feel automatic, not precious.',
+    'Pedagogical 9.3 / Followability 9.2. Week 16 is the buffer before paint. The gate is not perfect perspective; it is a readable scene whose spatial error you can name and correct.',
 }

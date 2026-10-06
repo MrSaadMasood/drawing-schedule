@@ -585,7 +585,7 @@ export const phase1Weeks: WeekDetail[] = [
     stopRule:
       'Session A: stop at 75 min — do not extend into a second session the same day. Session B: complete the category audit before buffer sprints; close page is the final 20 minutes.',
     milestone:
-      'Phase 1 complete when: (1) both sketchbooks are at least 80% filled, and (2) each skill category below has 5+ pages — gestures, contour and negative space, perspective, still lifes, Loomis heads, faces with features, hand studies, texture/mark-making, thumbnails, narrative panels, master copies — plus at least 4 dated expressive/emotion anchor pages (Weeks 1, 8, 11, 14). Use Week 14 Session B buffer time for any skill category under 5 pages before starting Phase 2. Your two weak areas from the review become the focus of Phase 2 Weeks 1–2.',
+      'Phase 1 complete when: (1) both sketchbooks are at least 80% filled, and (2) each skill category below has 5+ pages — gestures, contour and negative space, perspective, still lifes, Loomis heads, faces with features, hand studies, texture/mark-making, thumbnails, narrative panels, master copies — plus at least 4 dated expressive/emotion anchor pages (Weeks 1, 8, 11, 14). Use Week 14 Session B buffer time for any skill category under 5 pages before starting Phase 2. Write the weak skills specifically. Phase 2 Week 2 takes only two of them (rotating cylinders, wedge hands and feet). The rest have later Phase 2 weeks or wait for Phase 3 — do not sprint the whole list in the first fortnight.',
   },
   {
     id: 'week-15',

@@ -22,8 +22,8 @@ export const copyMethodSteps: CopyStep[] = [
     body: 'On the facing page write: (a) where the artist placed the brightest highlight and why, (b) one shadow shape that surprised you, (c) one value decision you want to use in your own work this week. An unfinished value copy with written observations teaches more than a finished copy with none.',
   },
   {
-    title: 'Memory value map 24 hours later',
-    body: 'Without looking at the original or your copy, redraw only the three value zones from memory on a small thumbnail. What you remember is what you learned. What you forget reveals what you traced without understanding. This step is optional but transforms reproduction into knowledge.',
+    title: 'Memory value map — required in Week 10 Session B',
+    body: 'Hide the original and your copy. Redraw only the three to five value zones from memory on a small thumbnail. What you remember is what you learned. What you forget is what you traced without understanding. Do this the same week you finish the copy.',
   },
 ]
 

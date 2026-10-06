@@ -3,7 +3,7 @@ import type { CopyStep, TimingCell } from '../../types/guide'
 export const timingCells: TimingCell[] = [
   {
     label: 'Value scale warm-up',
-    value: '3 minutes at the start of every session. No exceptions.',
+    value: '3 minutes every session in Weeks 1–4, then once a week unless the steps start jumping.',
   },
   {
     label: 'Shadow shape study',
@@ -15,23 +15,27 @@ export const timingCells: TimingCell[] = [
   },
   {
     label: 'Still life (value)',
-    value: '90 min. Even if shadows still feel wrong.',
+    value: '75 min for the drawing. Session B corrects a passage — it is not a second still life.',
   },
   {
     label: 'Master value copy',
-    value: '60 min. Masses only — detail is optional.',
+    value: 'Week 9 masses only. Week 10 finish plus a required memory map.',
   },
   {
     label: 'Portrait value study',
-    value: '90 min. No outlines allowed.',
+    value: 'Week 12 Session A. No outlines. Stop at 75 min.',
   },
   {
     label: 'Value mood lab',
-    value: '25–30 min on Weeks 1, 4, 6, 8, 11, 14 only — when the page feels full, stop.',
+    value: '25 min on Weeks 1, 5, and 12 only — when the page is full, stop.',
+  },
+  {
+    label: 'Gesture warm-up',
+    value: '10 min on Weeks 5, 8, and 11. Lean, weight, and a shadow side. Then the week’s job starts.',
   },
   {
     label: 'Full session',
-    value: '~90 min. After that, charcoal gets overworked and muddy.',
+    value: '75 min. After that, charcoal gets overworked and muddy.',
   },
 ]
 
@@ -52,8 +56,8 @@ export const drawingStopSteps: CopyStep[] = [
     variant: 'success',
   },
   {
-    title: 'Photograph and desaturate',
-    body: 'Take a photo of your drawing and convert to black and white. Compare side by side with your reference, also desaturated. Value errors that were invisible in colour become obvious. Do this at the halfway point and at the end of every still life and portrait session.',
+    title: 'Photograph, flip, and name the error',
+    body: 'Photograph the drawing, flip it, and desaturate it if the subject is in colour. At the midpoint of every still life and the portrait, write the largest miss: construction, proportion, value, or edge. Correct only that family. A list of five problems in one session is how the drawing turns to mud.',
     variant: 'success',
   },
   {
@@ -64,7 +68,7 @@ export const drawingStopSteps: CopyStep[] = [
 ]
 
 export const stopWarnBox =
-  'For Phase 2 specifically: almost no value drawing will feel "finished" at 90 minutes — and that is correct. Value work requires more looking than marking. If you are still adding tone after 90 minutes, you are almost certainly making things muddier, not better. Stop, photograph, and carry what you learned to the next session.'
+  'Almost no value drawing will feel finished at 75 minutes. That is correct. If you are still adding tone after the timer, you are usually making mud. Stop, photograph, and take one note to the next session. A long Phase 1 weakness list is not a reason to ignore the timer or to invent extra weeks.'
 
 export const askButtons = [
   {

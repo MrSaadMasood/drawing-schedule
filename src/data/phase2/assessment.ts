@@ -10,39 +10,39 @@ export type PhaseAssessment = {
 }
 
 export const phase2Assessment: PhaseAssessment = {
-  overallScore: 9.6,
-  followabilityScore: 9.0,
+  overallScore: 9.3,
+  followabilityScore: 9.2,
   verdict:
-    'Atelier-grade value sequence with dedicated weeks and six medium-tied value mood labs instead of weekly abstract emotion.',
+    'Value sequence with a scoped Week 2 — long Phase 1 weakness lists no longer become a second course',
   reason:
-    'Expanded to 14 weeks: pencil still life, charcoal still life, and hands each standalone; master copy spans Weeks 10–11; Loomis and portrait separated. Value scale warm-up every session preserved. Session B emotion replaced by skill densification on non-lab weeks; value mood labs on Weeks 1, 4, 6, 8, 11, 14 keep charcoal-as-feeling practice.',
+    'Twelve weeks. Session A is one deliverable. Week 2 is cylinder rotation and wedge hands/feet only. Shadow shapes and edges share Week 3. Forms, then one pencil still life and one charcoal still life. Week 8 applies value to foreshortened hands and feet. Master copy is analysis then finish plus a required memory map. Week 11 turns the head. Week 12 is the portrait and the Phase 3 carry list. Three value mood labs. Gesture is a ten-minute warm-up on three weeks. Composition and full scenes stay out.',
   ratingItems: [
     {
-      score: '9.0/10',
-      title: 'Followability — decoupled heavy weeks + clearer Session B',
-      body: 'One major deliverable per week. Mood labs are scheduled and medium-tied (value masses), not weekly filler. Week 14 review/buffer explicit. Non-lab Session Bs add gesture, form, still life, and anatomy volume.',
+      score: '9.2/10',
+      title: 'Followability — one job, a short list',
+      body: 'A review that names six or seven weaknesses no longer dumps them into Weeks 1–2. Each leftover has a week or a later phase. Still life is one drawing per medium, with a correction session instead of a second full piece.',
     },
     {
-      score: '10/10',
-      title: 'Value scale warm-up — every session',
-      body: 'Unchanged non-negotiable 3-minute calibration. Grit stays on the person; schedule no longer fights it with stacked Session A work.',
-    },
-    {
-      score: '9.5/10',
-      title: 'Sphere and shadow sequence',
-      body: 'Weeks 3–6 unchanged in intent. Foundation for all painting work preserved; Week 5 Session B now has more form-value reps.',
-    },
-    {
-      score: '9.5/10',
-      title: 'Master copy two-week split',
-      body: 'Analysis Week 10, completion Week 11 — prevents the old Week 9–10 copy + Loomis collision. Mood lab lands on Week 11 completion week.',
+      score: '9.4/10',
+      title: 'Value, edges, and the sphere',
+      body: 'Scales, silhouettes, hard versus soft edges, then pencil and charcoal forms with a look-cover-redraw pass. That is the painting foundation.',
     },
     {
       score: '9.2/10',
-      title: 'Alignment with roadmap',
-      body: '14-week overview matches guide. Six mood labs required at gate (not fourteen emotion pages). Phase 1 weak-area sprint Week 2 still opens the phase.',
+      title: 'Construction that value actually needs',
+      body: 'Cylinders that hide a face, wedges for hands and feet, foreshortening with tone, and features that turn with the head. Not a full anatomy curriculum.',
+    },
+    {
+      score: '9.0/10',
+      title: 'Master copy and portrait',
+      body: 'Two weeks for masses, then a memory map. Portrait is its own week. Likeness is allowed to stay inconsistent.',
+    },
+    {
+      score: '9.3/10',
+      title: 'Alignment with the roadmap',
+      body: 'Phase 2 teaches light. Phase 3 teaches arranging a scene. The Week 12 carry list is the handoff, not a hidden extra month of Phase 2.',
     },
   ],
   infoBox:
-    'Pedagogical 9.6 / Followability 9.0. Complete all 14 weeks before Phase 3 — or use Week 14 buffer on spheres/portrait if needed. Gate requires all 6 value mood labs.',
+    'Pedagogical 9.3 / Followability 9.2. Finish the 12 weeks, or use Week 12 Session B on a flat sphere or a muddy still life. Do not add complex perspective inside this phase. The roadmap total is 77 weeks, about 18 months at 3–4 hours a week.',
 }
